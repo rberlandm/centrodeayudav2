@@ -1,0 +1,18 @@
+[
+    {
+        "Beneficio": "Pintura Fachada Exterior",
+        "Descripción": "El servicio de pintura de fachada enviará personal idóneo o calificado para realizar trabajos de pintura de superficies externas de las paredes de la fachada del hogar del Asegurado.",
+        "Detalle": "DEBE INDICAR EL METRAJE DE LA SUPERFICIE A PINTAR",
+        "MaximoHrs": "5",
+        "MaximoEventos": "1",
+        "Exclusiones": "No incluye superficies interiores de la casa, por tanto el personal de la asistencia tendrá acceso a los espacios exteriores que precisen la fachada, siendo de responsabilidad de cada asegurado el permitir el acceso a otros espacios de la casa. NO INCLUYE MATERIAL  "
+    },
+    {
+        "Beneficio": "Plomería Hogar",
+        "Descripción": "Se enviará personal idóneo o calificado al domicilio u hogar del asegurado para realizar la revisión y recambio de pieza de desagûe o de Sifón y flexible por destape de Lavamanos de baño o Lavaplatos de cocina, en el hogar.",
+        "Detalle": "DEBE INDICAR EL TRABAJO A REALIZAR",
+        "MaximoHrs": "2.5",
+        "MaximoEventos": "1",
+        "Exclusiones": "No incluye intervención en cañerías empotradas o que no están a la vista. No aplica Wc, tinas o duchas. **El costo de la pieza o repuesto es de costo del cliente.NO INCLUYE MATERIAL "
+    }
+]

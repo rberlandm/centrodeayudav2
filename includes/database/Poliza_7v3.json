@@ -1,0 +1,82 @@
+[
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Orientacion medica telefonica                                                        (24 horas 365 dias del año)",
+        "Detalle": null,
+        "MontoMaximoEvento": "MontoMaximoEvento",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "no cubre gastos medicos "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Coordinacion de visita medico a domicilio",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "4",
+        "Exclusiones": "Distancia de radio urbano de          1 HORA  "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Traslado de ambulacia en caso de accidente",
+        "Detalle": "traslado en ambulancia o en el medio mas ideonio",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": "Distancia de radio urbano de          1 HORA  "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Toma de examenes en el domicilio del cliente",
+        "Detalle": "SANGRE, ORINA, ELECTROCARDIOGRAMA",
+        "MontoMaximoEvento": "2 UF por evento",
+        "EventosMaximos": "2",
+        "Exclusiones": "Disponibilidad deprestadore en cada region "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Consulta Medica ",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Disponibilidad deprestadore en cada region "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "PAP/ Mamografia",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar desde los 35 años "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "HEMOGRAMA VHS, NITROGENO UREICO, CREATININA, COLESTEROL TOTAL, TRIGLICERIDOS VDRL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico Hombre",
+        "Descripcion": "Consulta y diagnostico clinico preventivo",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a hombres desde los 40 años "
+    },
+    {
+        "Beneficio": "Oncologico Hombre",
+        "Descripcion": "Antigeno Prostatico",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a hombres desde los 40 años "
+    },
+    {
+        "Beneficio": "Oncologico Hombre",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "HEMOGRAMA VHS, NITROGENO UREICO, CREATININA, COLESTEROL TOTAL, TRIGLICERIDOS VDRL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a hombres desde los 40 años"
+    }
+]

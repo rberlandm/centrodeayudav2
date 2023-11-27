@@ -1,0 +1,122 @@
+[
+    {
+        "Beneficio": "Beneficio",
+        "Descripcion": "Descripcion",
+        "Detalle": "Detalle",
+        "MontoMaximoEvento": "MontoMaximoEvento",
+        "EventosMaximos": "EventosMaximos",
+        "Exclusiones": "Exclusiones "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Orientacion medica telefonica (24 horas 365 dias del año)",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "no cubre gastos medicos "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Coordinacion de visita medico a domicilio",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "4",
+        "Exclusiones": "Distancia de radio urbano de 1 HORA  "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Traslado de ambulacia en caso de accidente",
+        "Detalle": "traslado en ambulancia o en el media mas ideonio",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": "Distancia de radio urbano de 1 HORA  "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Toma de examenes en el domicilio del cliente",
+        "Detalle": "SANGRE, ORINA, ELECTROCARDIOGRAMA",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "2",
+        "Exclusiones": "Disponibilidad deprestadore en cada region "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Consulta y diagnostico clinico preventivo",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "PAP/ Mamografia",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Ecotomografia",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "HEMOGRAMA VHS, NITROGENO UREICO, GLICEMIA, ORINA COMPLETA, CREATININA, COLESTEROL TOTAL, TRIGLICERIDOS VDRL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras Salcobrand",
+        "Descripcion": "Medicamentos genericos",
+        "Detalle": "25% descuento",
+        "MontoMaximoEvento": "$10.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras Salcobrand",
+        "Descripcion": "Medicamentos de marca",
+        "Detalle": "05% descuento",
+        "MontoMaximoEvento": "$10.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras Salcobrand",
+        "Descripcion": "Medicamentos medipharm",
+        "Detalle": "15% descuento",
+        "MontoMaximoEvento": "$10.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras Salcobrand",
+        "Descripcion": "Consumo masivo",
+        "Detalle": "05% descuento",
+        "MontoMaximoEvento": "$10.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras Salcobrand",
+        "Descripcion": "Productos vitamin life",
+        "Detalle": "10% descuento",
+        "MontoMaximoEvento": "$10.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras Salcobrand",
+        "Descripcion": "Linea cluny",
+        "Detalle": "10% descuento",
+        "MontoMaximoEvento": "$10.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva"
+    }
+]

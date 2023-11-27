@@ -1,0 +1,58 @@
+[
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Visita de medico a domicilio",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": "- "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Orientacion medica telefonica",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "- "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Traslado en caso de urgencia medica",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": "- "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Toma de examenes a domicilio ",
+        "Detalle": "SANGRE, ORINA, ELECTROCARDIOGRAMA",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "2",
+        "Exclusiones": "- "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Consulta y dianostico clinico preventivo",
+        "Detalle": "Consulta medica con especialista para que emita orden medicas para la realizacion de examenes",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "- "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Examenes Preventivos",
+        "Detalle": "MAMOGRAFIA, ECOTOMOGRAFIA, PAPANICOLAU, HEMOGRAMA, PERFIL LIPIDICO, PERFIL BIOQUIMICO",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "- "
+    },
+    {
+        "Beneficio": "Beneficio descuento compras  ",
+        "Descripcion": "Tarjeta de descuento farmacia [SALCOBRAND]",
+        "Detalle": null,
+        "MontoMaximoEvento": "$ 15.000  Mensuales",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "-"
+    }
+]

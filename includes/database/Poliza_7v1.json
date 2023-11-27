@@ -1,0 +1,138 @@
+[
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Orientacion medica telefonica  (24 horas 365 dias del año)",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "NO cubre gastos medicos "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Coordinacion de visita medico a domicilio",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": "Radio Urbano Maximo de 1 HORA, en regiones sera determinado por la distancia donde este el cliente  "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Traslado de ambulacia en caso de accidente",
+        "Detalle": "traslado en ambulancia o en el media mas ideonio",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Toma de examenes en el domicilio del cliente",
+        "Detalle": "SANGRE, ORINA, ELECTROCARDIOGRAMA",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "2",
+        "Exclusiones": "Depende de Disponibilidad de prestadore en cada region "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Consulta y diagnostico clinico preventivo",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "PAP/ Mamografia",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Ecotomografia",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "HEMOGRAMA VHS, NITROGENO UREICO, GLICEMIA, ORINA COMPLETA, CREATININA, COLESTEROL TOTAL, TRIGLICERIDOS VDRL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia [CRUZ VERDE]",
+        "Descripcion": "Medicamentos genericos",
+        "Detalle": "40% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia            CRUZ VERDE",
+        "Descripcion": "Medicamentos de marca",
+        "Detalle": "10% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia            CRUZ VERDE",
+        "Descripcion": "Medicamentos medipharm",
+        "Detalle": "25% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia            CRUZ VERDE",
+        "Descripcion": "Productos GEA",
+        "Detalle": "15% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia            CRUZ VERDE",
+        "Descripcion": "Productos de belleza BE spa",
+        "Detalle": "10% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia            CRUZ VERDE",
+        "Descripcion": "Consumo masivo",
+        "Detalle": "05% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva "
+    },
+    {
+        "Beneficio": "Beneficio descuento en farmacia            CRUZ VERDE",
+        "Descripcion": "Accesorios de belleza marcas propias",
+        "Detalle": "20% descuento",
+        "MontoMaximoEvento": "$15.000 mesual para grupo familiar",
+        "EventosMaximos": "Sin limite hasta el monto maximo mensual",
+        "Exclusiones": "Se excluyen medicamentos oncologicos, inmunologicos, veterinarios, vacunas y medicina reproductiva"
+    },
+    {
+        "Beneficio": "",
+        "Descripcion": "",
+        "Detalle": "",
+        "MontoMaximoEvento": "",
+        "EventosMaximos": "",
+        "Exclusiones": ""
+    },
+    {
+        "Beneficio": "",
+        "Descripcion": "",
+        "Detalle": "",
+        "MontoMaximoEvento": "",
+        "EventosMaximos": "",
+        "Exclusiones": ""
+    }
+]

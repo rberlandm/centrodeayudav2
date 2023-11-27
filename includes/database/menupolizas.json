@@ -1,0 +1,498 @@
+[
+    {
+        "codigo": "5",
+        "sponsor": "LAPOLAR",
+        "Producto": "ASISTENCIACLINICADOMICILIARIA",
+        "Fecha_Inicio": "2/2/2015",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "7V1",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_CLINICADOMICILIARIA",
+        "Fecha_Inicio": "2/1/2016",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "7V2",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_CLINICADOMICILIARIA",
+        "Fecha_Inicio": "9/30/2016",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "7V3",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_CLINICADOMICILIARIA",
+        "Fecha_Inicio": "3/27/2017",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "15",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_CLINICADOMICILIARIA",
+        "Fecha_Inicio": "12/23/2017",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "21",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_CLINICADOMICILIARIA",
+        "Fecha_Inicio": "1/1/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "26",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_CLINICADOMICILIARIA",
+        "Fecha_Inicio": "8/20/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "12",
+        "sponsor": "LAPOLAR",
+        "Producto": "SALUDINTEGRAL",
+        "Fecha_Inicio": "6/22/2017",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "18",
+        "sponsor": "LAPOLAR",
+        "Producto": "SALUDINTEGRAL",
+        "Fecha_Inicio": "2/12/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "28",
+        "sponsor": "LAPOLAR",
+        "Producto": "SALUDINTEGRAL",
+        "Fecha_Inicio": "8/20/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "13",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_ASISTENCIADENTAL",
+        "Fecha_Inicio": "7/17/2017",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "19",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_ASISTENCIADENTAL",
+        "Fecha_Inicio": "1/1/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "27",
+        "sponsor": "LAPOLAR",
+        "Producto": "AP_ASISTENCIADENTAL",
+        "Fecha_Inicio": "8/20/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "23",
+        "sponsor": "LAPOLAR",
+        "Producto": "FULLEXAMENES",
+        "Fecha_Inicio": "6/15/2018",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "24",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROTECCION4ESTACIONES",
+        "Fecha_Inicio": "6/29/2018",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "4",
+        "sponsor": "LAPOLAR",
+        "Producto": "ASISTENCIAFULLPREVENCIONONCOLÓGICO",
+        "Fecha_Inicio": "2/12/2018",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "72",
+        "sponsor": "LAPOLAR",
+        "Producto": "FULLPROTECCION",
+        "Fecha_Inicio": "2/1/2016",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "73",
+        "sponsor": "LAPOLAR",
+        "Producto": "MÁSPROTECCION",
+        "Fecha_Inicio": "4/1/2015",
+        "Aseguradora": "AIG",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "347",
+        "sponsor": "LAPOLAR",
+        "Producto": "SEGUROCATASTROFICOHOGAR",
+        "Fecha_Inicio": "11/5/2019",
+        "Aseguradora": "Cardif",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "9",
+        "sponsor": "LAPOLAR",
+        "Producto": "SEGUROONCOLÓGICO",
+        "Fecha_Inicio": "2/1/2016",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "71",
+        "sponsor": "LAPOLAR",
+        "Producto": "FULLPROTECCIONXL",
+        "Fecha_Inicio": "6/3/2016",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "344",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROGRAMAAGENDAMIENTOCONSULTA",
+        "Fecha_Inicio": "5/1/2019",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "343",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROGRAMAPREVENTIVOSALUD",
+        "Fecha_Inicio": "5/23/2019",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "342",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROGRAMAATENCIONDOMICILIARIA",
+        "Fecha_Inicio": "5/23/2019",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "381",
+        "sponsor": "LAPOLAR",
+        "Producto": "HOSPITALIZACIONPROTEGIDA",
+        "Fecha_Inicio": "10/12/2021",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "379",
+        "sponsor": "LAPOLAR",
+        "Producto": "DESGRAVAMEN3.0",
+        "Fecha_Inicio": "10/1/2021",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "456",
+        "sponsor": "LAPOLAR",
+        "Producto": "SEG.DESGRAVAMEN4",
+        "Fecha_Inicio": "5/1/2023",
+        "Aseguradora": "Cardif",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "345",
+        "sponsor": "LAPOLAR",
+        "Producto": "ASISTENCIADOCTORDIGITAL",
+        "Fecha_Inicio": "6/2/2020",
+        "Aseguradora": "Assistime",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "348",
+        "sponsor": "LAPOLAR",
+        "Producto": "TELEMEDICINAPOS",
+        "Fecha_Inicio": "2/1/2021",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "421",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROG.ASIST.SALUDINTEGRAL",
+        "Fecha_Inicio": "5/1/2023",
+        "Aseguradora": "Assistime",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "422",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROG.ASIST.CUIDATUSALUD",
+        "Fecha_Inicio": "5/1/2023",
+        "Aseguradora": "Assistime",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "423",
+        "sponsor": "LAPOLAR",
+        "Producto": "PROG.ASIST.SALUDESCOLAR",
+        "Fecha_Inicio": "5/1/2023",
+        "Aseguradora": "Assistime",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "27008372",
+        "sponsor": "LAPOLAR",
+        "Producto": "ASISTENCIASALUDINTEGRALTOTAL",
+        "Fecha_Inicio": "9/1/2023",
+        "Aseguradora": "BCF SPA.",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "2080102",
+        "sponsor": "ABCDIN",
+        "Producto": "SEGUROSALUDDENTALFAMILIAR",
+        "Fecha_Inicio": "8/1/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "2014245",
+        "sponsor": "ABCDIN",
+        "Producto": "SEGURODEVIDA",
+        "Fecha_Inicio": "8/2/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "2070101",
+        "sponsor": "ABCDIN",
+        "Producto": "SEGUROESCOLARIDADPLAN1",
+        "Fecha_Inicio": "8/2/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "7010111",
+        "sponsor": "ABCDIN",
+        "Producto": "SEGUROONCOLÓGICOPLUS",
+        "Fecha_Inicio": "7/1/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "2223001",
+        "sponsor": "ABCDIN",
+        "Producto": "CLINICADOMICILIARIA",
+        "Fecha_Inicio": "2/12/2018",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "2030261",
+        "sponsor": "ABCDIN",
+        "Producto": "SEGUROCATASTROFICOFAMILIAR",
+        "Fecha_Inicio": "8/1/2018",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "1153096",
+        "sponsor": "ABCDIN",
+        "Producto": "ASISTENCIASALUDINTEGRALFAMILIAR",
+        "Fecha_Inicio": "11/8/2021",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "1153102",
+        "sponsor": "ABCDIN",
+        "Producto": "ASIST.SALUDPROGRAMADOMICILIARIO",
+        "Fecha_Inicio": "11/8/2021",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "1153075",
+        "sponsor": "ABCDIN",
+        "Producto": "ASISTENCIAMASCOTAS",
+        "Fecha_Inicio": "12/1/2021",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "1153100",
+        "sponsor": "ABCDIN",
+        "Producto": "ASISTENCIAFULLHOGAR",
+        "Fecha_Inicio": "12/1/2021",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "1153100",
+        "sponsor": "ABCDIN",
+        "Producto": "ASISTENCIAAUTOINTEGRAL",
+        "Fecha_Inicio": "12/1/2021",
+        "Aseguradora": "Ohio",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "99",
+        "sponsor": "FFAA",
+        "Producto": "FUERZASARMADAS",
+        "Fecha_Inicio": "1/1/2018",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "0",
+        "sponsor": "COPELECBCI",
+        "Producto": "SALUDTOTALCOPELEC",
+        "Fecha_Inicio": "12/27/2018",
+        "Aseguradora": "BCI",
+        "observacion": "POR CONFIRMAR"
+    },
+    {
+        "codigo": "77",
+        "sponsor": "BCI",
+        "Producto": "ACCIDENTESPERSONALESAP_2.0YHOSPITALARIO",
+        "Fecha_Inicio": "11/5/2018",
+        "Aseguradora": "Assistime",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": null,
+        "sponsor": "BCI",
+        "Producto": "SALADEURGENCIA",
+        "Fecha_Inicio": null,
+        "Aseguradora": null,
+        "observacion": null
+    },
+    {
+        "codigo": "97",
+        "sponsor": "BICEVIDA",
+        "Producto": "ASISTENCIAALDECESOBICEVIDA",
+        "Fecha_Inicio": "7/15/2020",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "80",
+        "sponsor": "CENCOSUD",
+        "Producto": "PREVENTIVOONCOLÓGICO",
+        "Fecha_Inicio": "11/27/2018",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "543201",
+        "sponsor": "SALCOBRAND",
+        "Producto": "BOXDEURGENCIASALCOBRAND",
+        "Fecha_Inicio": "4/15/2019",
+        "Aseguradora": "MATIKARD",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": null,
+        "sponsor": "SALCOBRAND",
+        "Producto": "MASSALUD",
+        "Fecha_Inicio": null,
+        "Aseguradora": null,
+        "observacion": null
+    },
+    {
+        "codigo": "543202",
+        "sponsor": "PREUNIC",
+        "Producto": "BOXDEURGENCIAPREUNIC",
+        "Fecha_Inicio": "5/6/2019",
+        "Aseguradora": "MATIKARD",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "10418209",
+        "sponsor": "DIJON",
+        "Producto": "SALUDINTEGRALINFANTIL",
+        "Fecha_Inicio": "7/5/2019",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "92",
+        "sponsor": "CAJALOSANDES",
+        "Producto": "HOSPITALIZACIONTMKFAMILIAR",
+        "Fecha_Inicio": "10/1/2019",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "108",
+        "sponsor": "CAJALOSANDES",
+        "Producto": "HOSPITALIZACIONTMKFAMILIARPGU",
+        "Fecha_Inicio": "1/1/2023",
+        "Aseguradora": "Cardif",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "101",
+        "sponsor": "CAJALOSANDES",
+        "Producto": "ONCOLOGICOTMK",
+        "Fecha_Inicio": "10/20/2020",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "87",
+        "sponsor": "CAJALOSANDES",
+        "Producto": "BOXMEDICOVIDAFAMILIAR",
+        "Fecha_Inicio": "3/13/2020",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "219041310",
+        "sponsor": "RIPLEY",
+        "Producto": "VIDAASOCIADOASUPERAVANCESHOMEBANKING",
+        "Fecha_Inicio": "8/1/2020",
+        "Aseguradora": "Cardif",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "109",
+        "sponsor": "MEDISMART",
+        "Producto": "ASISTENCIAMEDI-ASSIST",
+        "Fecha_Inicio": "4/1/2021",
+        "Aseguradora": "Assistime",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "221",
+        "sponsor": "FASHIONSPARK",
+        "Producto": "ASISTENCIAMÉDICAFAMILIAR",
+        "Fecha_Inicio": "5/18/2023",
+        "Aseguradora": "OHIO+ASIST",
+        "observacion": "NO SE VENDE"
+    },
+    {
+        "codigo": "39246330",
+        "sponsor": "CORONA",
+        "Producto": "PLANLIBREELECCIONCORONA",
+        "Fecha_Inicio": "8/23/2023",
+        "Aseguradora": "Assistime",
+        "observacion": "SE VENDE"
+    }
+]
