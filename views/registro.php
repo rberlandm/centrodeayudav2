@@ -24,7 +24,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
         <h1>Formulario de Registro</h1>
         <nav>
             <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
                 <li class="breadcrumb-item active">Formulario Registro Atenciones</li>
             </ol>
         </nav>
@@ -40,7 +40,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
             <div class="info-dinomi row mb-3">
                 <div class="col-md-3">
                     <label for="idDinomi" class="form-label">Agente</label>
-                    <input type="text" class="form-control" id="idDinomi" name="idDinomi" value="Administrador" disabled>
+                    <input type="text" class="form-control" id="idDinomi" name="idDinomi" value="Administrador">
                 </div>
                 <div class="col-md-3">
                     <label for="idDinomi" class="form-label">Id Dinomi</label>
@@ -54,12 +54,12 @@ $datosCobertura = obtenerDatosJson('cobertura');
 
                 <div class="col-md-2">
                     <label for="idFecha" class="form-label">Fecha</label>
-                    <input type="text" class="form-control" id="idFecha" name="idFecha" disabled>
+                    <input type="text" class="form-control" id="idFecha" name="idFecha">
                 </div>
 
                 <div class="col-md-2">
                     <label for="idHora" class="form-label">Hora</label>
-                    <input type="text" class="form-control" id="idHora" name="idHora" disabled>
+                    <input type="text" class="form-control" id="idHora" name="idHora">
                 </div>
             </div>
 
@@ -69,11 +69,11 @@ $datosCobertura = obtenerDatosJson('cobertura');
 
             <h5 class="titulo">Información Titular</h5>
             <div class="informacion-paciente mb-3 row">
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <label for="idRutTitular" class="form-label">Rut Titular</label>
                     <input type="text" class="form-control" id="idRutTitular" name="idRutTitular">
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-6">
                     <label for="idNombreTitular" class="form-label">Nombre Titular</label>
                     <input type="text" class="form-control" id="idNombreTitular" name="idNombreTitular">
                 </div>
@@ -99,11 +99,11 @@ $datosCobertura = obtenerDatosJson('cobertura');
                 </div>
                 <div class="col-md-2">
                     <label for="idFechaNacimiento" class="form-label">Fecha Nacimiento</label>
-                    <input type="date" class="form-control" id="idFechaNacimiento" name="idFechaNacimiento">
+                    <input type="date" class="form-control" id="idFechaNacimiento" name="idFechaNacimiento" onchange="calcularEdad()">
                 </div>
                 <div class="col-md-2">
                     <label for="idEdad" class="form-label">Edad</label>
-                    <input type="number" class="form-control" id="idEdad" name="idEdad">
+                    <input type="number" class="form-control" id="idEdad" name="idEdad" readonly>
                 </div>
 
 
@@ -113,9 +113,8 @@ $datosCobertura = obtenerDatosJson('cobertura');
                         <option selected disabled>Seleccione...</option>
                         <?php
                         foreach ($datos as $option) {
-                            echo "<option value='{$option['id']}'>{$option['prevision']}</option>";
+                            echo "<option value='{$option['prevision']}' data-prevision='{$option['prevision']}'>{$option['prevision']}</option>";
                         }
-
                         ?>
                     </select>
                 </div>
@@ -134,7 +133,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                         <option disabled selected>Selecciona...</option>
                         <?php
                         foreach ($datosComuna as $comuna) {
-                            echo "<option value='{$comuna['id']}' 
+                            echo "<option value='{$comuna['comuna']}' 
                                             data-comuna='{$comuna['comuna']}' 
                                             data-ciudad='{$comuna['ciudad']}' 
                                             data-region='{$comuna['region']}'>
@@ -147,12 +146,12 @@ $datosCobertura = obtenerDatosJson('cobertura');
 
                 <div class="col-md-2">
                     <label for="idCiudad" class="form-label">Ciudad</label>
-                    <input type="text" class="form-control" id="idCiudad" name="idCiudad" readonly disabled>
+                    <input type="text" class="form-control" id="idCiudad" name="idCiudad" readonly>
                 </div>
 
                 <div class="col-md-2">
                     <label for="idRegion" class="form-label">Región</label>
-                    <input type="text" class="form-control" id="idRegion" name="idRegion" disabled>
+                    <input type="text" class="form-control" id="idRegion" name="idRegion">
                 </div>
             </div>
 
@@ -198,7 +197,8 @@ $datosCobertura = obtenerDatosJson('cobertura');
                         <option disabled selected>Selecciona...</option>
                         <?php
                         foreach ($datosProducto as $option) {
-                            echo "<option value='{$option['id']}' 
+                            echo "<option value='{$option['servicio']}' 
+                                            data-prevision='{$option['servicio']}'
                                             data-servicio='{$option['servicio']}' 
                                             data-producto='{$option['producto']}' 
                                             data-sponsor='{$option['sponsor']}'>
@@ -211,12 +211,12 @@ $datosCobertura = obtenerDatosJson('cobertura');
 
                 <div class="col-md-2 mb-3">
                     <label for="idServicio" class="form-label">Producto [Abreviado] </label>
-                    <input type="text" class="form-control" id="idServicio" name="idServicio" disabled>
+                    <input type="text" class="form-control" id="idServicio" name="idServicio">
                 </div>
 
                 <div class="col-md-2 mb-3">
                     <label for="idSponsor" class="form-label">Sponsor </label>
-                    <input type="text" class="form-control" id="idSponsor" name="idSponsor" disabled>
+                    <input type="text" class="form-control" id="idSponsor" name="idSponsor">
                 </div>
 
                 <div class="col-md-2 mb-3">
@@ -230,7 +230,8 @@ $datosCobertura = obtenerDatosJson('cobertura');
                         <option disabled selected>Selecciona...</option>
                         <?php
                         foreach ($datosCalidad as $option) {
-                            echo "<option value='{$option['id']}'>{$option['status']}</option>";
+                            echo "<option value='{$option['id']}'
+                            data-prevision='{$option['status']}'>{$option['status']}</option>";
                         }
                         ?>
                     </select>
@@ -242,7 +243,8 @@ $datosCobertura = obtenerDatosJson('cobertura');
                         <option disabled selected>Selecciona...</option>
                         <?php
                         foreach ($datosAlertas as $option) {
-                            echo "<option value='{$option['id']}'>{$option['alertas']}</option>";
+                            echo "<option value='{$option['id']}'
+                            data-prevision='{$option['alertas']}'>{$option['alertas']}</option>";
                         }
                         ?>
                     </select>
@@ -254,7 +256,8 @@ $datosCobertura = obtenerDatosJson('cobertura');
                         <option disabled selected>Selecciona...</option>
                         <?php
                         foreach ($datosCobertura as $option) {
-                            echo "<option value='{$option['id']}'>{$option['cobertura']}</option>";
+                            echo "<option value='{$option['id']}'
+                            data-prevision='{$option['cobertura']}'>{$option['cobertura']}</option>";
                         }
                         ?>
                     </select>
@@ -267,7 +270,8 @@ $datosCobertura = obtenerDatosJson('cobertura');
 
                                     <?php
                                     foreach ($datosAtencion as $option) {
-                                        echo "<option value='{$option['id']}'>{$option['tipoatencion']}</option>";
+                                        echo "<option value='{$option['tipoatencion']}'
+                                        data-prevision='{$option['status']}'>{$option['tipoatencion']}</option>";
                                     }
                                     ?>
                                 </select>
@@ -285,10 +289,17 @@ $datosCobertura = obtenerDatosJson('cobertura');
 
 
             </div>
+            <div class="botones d-flex align-items-center justify-content-between">
+                <button type="button" onclick="agregarRegistro()" class="btn btn-primary">Agregar Registro</button>
+
+                <button type="button" onclick="descargarRegistros()" class="btn btn-info">Descargar Registros</button>
+
+                <button type="button" onclick="limpiarFormulario()" class="btn btn-secondary">Limpiar Formulario</button>
+
+            </div>
 
         </form>
     </div>
-
 </main>
 
 <?php incluirTemplate('footer'); ?>

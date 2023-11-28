@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obtener ID y Valor de un Select</title>
+</head>
+<body>
+
+  <select id="miSelect">
+    <option value="opcion1" id="opcion1">Opción 1</option>
+    <option value="opcion2" id="opcion2">Opción 2</option>
+    <option value="opcion3" id="opcion3">Opción 3</option>
+  </select>
+
+  <script>
+    // Obtener el elemento select por su ID
+    var miSelect = document.getElementById("miSelect");
+
+    // Función para obtener el valor y el ID al cambiar la selección
+    function obtenerValorYId() {
+      // Obtener el ID del elemento select
+      var idSelect = miSelect.id;
+
+      // Obtener el valor seleccionado
+      var valorSeleccionado = miSelect.value;
+
+      // Obtener el ID de la opción seleccionada
+      var idSeleccionado = miSelect.options[miSelect.selectedIndex].id;
+
+      // Construir un objeto JavaScript con la información
+      var datos = {
+        idSelect: idSelect,
+        valorSeleccionado: valorSeleccionado,
+        idSeleccionado: idSeleccionado
+      };
+
+      // Convertir el objeto a una cadena JSON
+      var jsonDatos = JSON.stringify(datos);
+
+      // Mostrar la cadena JSON en la consola
+      console.log(jsonDatos);
+    }
+
+    // Asignar la función al evento de cambio del select
+    miSelect.addEventListener("change", obtenerValorYId);
+
+    // Llamar a la función al cargar la página para obtener los valores iniciales
+    obtenerValorYId();
+  </script>
+
+</body>
+</html>
