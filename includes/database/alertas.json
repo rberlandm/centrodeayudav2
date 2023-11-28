@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "alertas": "ALERTA DE RETENCION "
+    },
+    {
+        "id": "2",
+        "alertas": "ALERTA FULL PROTECCION "
+    },
+    {
+        "id": "3",
+        "alertas": "ALERTA SUCURSAL "
+    },
+    {
+        "id": "4",
+        "alertas": "OPERACIONES "
+    }
+]

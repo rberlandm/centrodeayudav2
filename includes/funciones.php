@@ -13,3 +13,10 @@ function leerJson($nombreJson)
     // Puedes ajustar esta lógica según tus necesidades
     return DATABASE_URL . "/" . $nombreJson . '.json';
 }
+
+function obtenerDatosJson($nombreJson)
+{
+    $url = leerJson($nombreJson);
+    $json_data = file_get_contents($url);
+    return json_decode($json_data, true);
+}

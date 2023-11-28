@@ -17,6 +17,35 @@
     <link href="https://fonts.gstatic.com" rel="preconnect">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
+
+    <link rel="preload" href="/views/assets/vendor/bootstrap/css/bootstrap.min.css" as="style" />
+    <link rel="preload" href="/views/assets/vendor/bootstrap-icons/bootstrap-icons.css" as="style" />
+    <link rel="preload" href="/views/assets/vendor/boxicons/css/boxicons.min.css" as="style" />
+    <link rel="preload" href="/views/assets/vendor/quill/quill.snow.css" as="style" />
+    <link rel="preload" href="/views/assets/vendor/quill/quill.bubble.css" as="style" />
+    <link rel="preload" href="/views/assets/vendor/remixicon/remixicon.css" as="style" />
+    <link rel="preload" href="/views/assets/vendor/simple-datatables/style.css" as="style" />
+    <link rel="preload" href="/views/assets/css/style.css" as="style" />
+    <link rel="preload" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" as="style" />
+    <link rel="preload" href="" as="style" />
+    <link rel="preload" href="" as="style" />
+
+
+    <link rel="preload" href="" as="script" />
+    <link rel="preload" href="https://code.jquery.com/jquery-3.6.4.min.js" as="script" />
+    <link rel="preload" href="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/apexcharts/apexcharts.min.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/chart.js/chart.umd.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/echarts/echarts.min.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/quill/quill.min.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/simple-datatables/simple-datatables.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/tinymce/tinymce.min.js" as="script" />
+    <link rel="preload" href="/views/assets/vendor/php-email-form/validate.js" as="script" />
+    <link rel="preload" href="/views/assets/js/main.js" as="script" />
+    <link rel="preload" href="/views/assets/js/app.js" as="script" />
+
+
     <!-- Vendor CSS Files -->
     <link href="/views/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="/views/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">

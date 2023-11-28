@@ -20,7 +20,7 @@ $datos = json_decode($json_data, true);
 
 <main id="main" class="main vh-100">
     <div class="pagetitle d-flex align-items-center">
-        <img src="/views/assets/img/Logo_La_Polar.svg" alt="" class="w-25 me-3">
+        <img src="/views/assets/img/Logo_La_Polar.svg" alt="" class="img-marca">
         <div class="info-header pt-3">
             <h1>AP CLINICA DOMICILIARIA [7v2] </h1>
             <nav>
@@ -43,45 +43,43 @@ $datos = json_decode($json_data, true);
                 </div>
 
                 <div class="col-sm-6">
-                <div class="card-info h-100  rounded-3 card-title text-small d-flex align-items-center justify-content-center">NOTA: EN EL MEDICO A DOMICILIO EL TIEMPO DE RESPUESTA DE LA SOLICITUD EN LOS SECTORES FUERA DE RADIO URBANO DE LA CIUDAD SERA DETERMINADO POR LA DISTANCIA. QUE SE ENCUENTRA EL CLIENTE .</div>
+                    <div class="card-info h-100  rounded-3 card-title text-small d-flex align-items-center justify-content-center">NOTA: EN EL MEDICO A DOMICILIO EL TIEMPO DE RESPUESTA DE LA SOLICITUD EN LOS SECTORES FUERA DE RADIO URBANO DE LA CIUDAD SERA DETERMINADO POR LA DISTANCIA. QUE SE ENCUENTRA EL CLIENTE .</div>
                 </div>
 
             </div>
 
         </article>
 
-        <table id="myTable" class="table table-borderless datatable w-100 table-hover">
-            <thead>
-                <tr>
-                    <th>Beneficio</th>
-                    <th>Descripción</th>
-                    <th>Producto</th>
-                    <th>Fecha Inicio</th>
-                    <th>Aseguradora</th>
-                    <th>Exclusiones</th>
-                </tr>
-            </thead>
-            <tbody>
-                <?php
-                // Iterar sobre las pólizas y mostrarlas en la tabla
-                foreach ($datos as $poliza) {
-                    echo '<tr>';
-                    echo '<td>' . $poliza['Beneficio'] . '</td>';
-                    echo '<td>' . $poliza['Descripcion'] . '</td>';
-                    echo '<td>' . $poliza['Detalle'] . '</td>';
-                    echo '<td>' . $poliza['MontoMaximoEvento'] . '</td>';
-                    echo '<td>' . $poliza['EventosMaximos'] . '</td>';
-                    echo '<td>' . $poliza['Exclusiones'] . '</td>';
-                    echo '</tr>';
-                }
-                ?>
-            </tbody>
-        </table>
+        <div class="table-responsive">
+            <table id="myTable" class="table table-borderless datatable  table-responsive table-hover">
+                <thead>
+                    <tr>
+                        <th>Beneficio</th>
+                        <th>Descripción</th>
+                        <th>Detalle</th>
+                        <th>Monto Máximos por evento</th>
+                        <th>Eventos Máximos por Año</th>
+                        <th>Exclusiones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php
+                    // Iterar sobre las pólizas y mostrarlas en la tabla
+                    foreach ($datos as $poliza) {
+                        echo '<tr>';
+                        echo '<td>' . $poliza['Beneficio'] . '</td>';
+                        echo '<td>' . $poliza['Descripcion'] . '</td>';
+                        echo '<td>' . $poliza['Detalle'] . '</td>';
+                        echo '<td>' . $poliza['MontoMaximoEvento'] . '</td>';
+                        echo '<td>' . $poliza['EventosMaximos'] . '</td>';
+                        echo '<td>' . $poliza['Exclusiones'] . '</td>';
+                        echo '</tr>';
+                    }
+                    ?>
+                </tbody>
+            </table>
+        </div>
     </div>
-
-
-
-
 </main>
 
 <?php incluirTemplate('footer'); ?>

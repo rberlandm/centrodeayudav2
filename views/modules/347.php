@@ -19,7 +19,8 @@ $datos = json_decode($json_data, true);
 ?>
 
 <main id="main" class="main vh-100">
-    <div class="pagetitle">
+<div class="pagetitle d-flex align-items-center">
+        <img src="/views/assets/img/Logo_La_Polar.svg" alt="" class="img-marca">
         <h1>ASISTENCIA HOGAR CATASTROFICO PINTURA FACHADA Y PLOMERIA</h1>
         <nav>
             <ol class="breadcrumb">
@@ -36,11 +37,11 @@ $datos = json_decode($json_data, true);
         <table id="myTable" class="table table-borderless datatable w-100">
             <thead>
                 <tr>
-                    <th>Beneficio</th>
+                <th>Beneficio</th>
                     <th>Descripción</th>
-                    <th>Producto</th>
-                    <th>Fecha Inicio</th>
-                    <th>Aseguradora</th>
+                    <th>Detalle</th>
+                    <th>Monto Máximos por evento</th>
+                    <th>Eventos Máximos por Año</th>
                     <th>Exclusiones</th>
                 </tr>
             </thead>

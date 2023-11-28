@@ -7,7 +7,7 @@ incluirTemplate('navbar');
 incluirTemplate('sidebar');
 
 // Obtener la URL del JSON
-$url = leerJson('Poliza_7v3');
+$url = leerJson('Poliza_26');
 
 // Obtener el contenido JSON desde la URL
 $json_data = file_get_contents($url);
@@ -22,11 +22,11 @@ $datos = json_decode($json_data, true);
     <div class="pagetitle d-flex align-items-center">
         <img src="/views/assets/img/Logo_La_Polar.svg" alt="" class="img-marca">
         <div class="info-header pt-3">
-            <h1>AP CLINICA DOMICILIARIA [7v3] </h1>
+            <h1>AP CLÍNICA DOMICILIARIA [Código 26]</h1>
             <nav>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
-                    <li class="breadcrumb-item active">Polizas</li>
+                    <li class="breadcrumb-item active">Pólizas</li>
                 </ol>
             </nav>
         </div>
@@ -34,11 +34,12 @@ $datos = json_decode($json_data, true);
 
 
     <div class="card p-3 ">
-        <h5 class="card-title">Listado de Pólizas <span>| Vigencia 30/09/2016 AL 26/03/2017</span> <span class="badge text-bg-danger">SE ELIMINA LA TARJETA DE BENEFICIOS </span></h5>
+        <h5 class="card-title">Listado de Pólizas <span>Vigencia | 20/08/2018 ACTUAL</span></h5>
 
         <span class="badge rounded-pill text-bg-warning p-1 mb-3">Seguro por muerte accidental por 200 UF</span>
+
         <div class="table-responsive">
-            <table id="myTable" class="table table-borderless datatable  table-responsive table-hover">
+            <table id="myTable" class="table table-borderless datatable table-hover">
                 <thead>
                     <tr>
                         <th>Beneficio</th>

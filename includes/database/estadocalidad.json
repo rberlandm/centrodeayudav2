@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "status": "CONSULTA EXTERNA "
+    },
+    {
+        "id": "2",
+        "status": "CONSULTA INTERNA "
+    },
+    {
+        "id": "3",
+        "status": "CORTE CC "
+    },
+    {
+        "id": "4",
+        "status": "CORTE SC "
+    },
+    {
+        "id": "5",
+        "status": "DERIVACION  "
+    },
+    {
+        "id": "6",
+        "status": "PENDIENTE DERIVACION "
+    },
+    {
+        "id": "7",
+        "status": "REAGENDAMIENTO "
+    }
+]

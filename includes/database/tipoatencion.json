@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "tipoatencion": "ASIST. AUTO HOGAR "
+    },
+    {
+        "id": "2",
+        "tipoatencion": "ASIST. MASCOTAS "
+    },
+    {
+        "id": "3",
+        "tipoatencion": "BAJA ASISTENCIA "
+    },
+    {
+        "id": "4",
+        "tipoatencion": "BOX DE URGENCIA "
+    },
+    {
+        "id": "5",
+        "tipoatencion": "CONSULTA MEDICA "
+    },
+    {
+        "id": "6",
+        "tipoatencion": "DENTAL "
+    },
+    {
+        "id": "7",
+        "tipoatencion": "EXAMENES PREVENTIVOS "
+    },
+    {
+        "id": "8",
+        "tipoatencion": "MAS PROTECCION "
+    },
+    {
+        "id": "9",
+        "tipoatencion": "MAXIMA GARANTIA "
+    },
+    {
+        "id": "10",
+        "tipoatencion": "MEDICO A DOMICILIO "
+    },
+    {
+        "id": "11",
+        "tipoatencion": "ORIENTACION MEDICA TELEFONICA "
+    },
+    {
+        "id": "12",
+        "tipoatencion": "TOMA DE EXAMENES "
+    },
+    {
+        "id": "13",
+        "tipoatencion": "TRASLADO EN AMBULANCIA "
+    },
+    {
+        "id": "14",
+        "tipoatencion": "TELEMEDICINA "
+    },
+    {
+        "id": "15",
+        "tipoatencion": "SIN DESCRIPCION "
+    },
+    {
+        "id": null,
+        "tipoatencion": null
+    }
+]

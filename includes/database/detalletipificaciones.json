@@ -1,0 +1,83 @@
+[
+    {
+        "consulta_externa": "CONSULTAS O DUDAS DE CLIENTE DONDE ASISTIME NO PUEDE DAR INFORMACION, PORQUE NO LO MANEJA",
+        "consulta_interna": "CONSULTAS O DUDAS QUE ASSISTIME PUEDE DAR RESPUESTA",
+        "pendiente_derivacion": "CUANDO SOLICITA ATENCION CON AGENDAMIENTO PREVIO",
+        "derivacion": "SOLICITA ATENCION DE URGENCIA (QUE SUELEN COORDINARCE EN EL DIA)",
+        "reagendamiento": "CUANDO CENTRO MEDICO ANULA ATENCION O LE REAGENDAN ELLOS DIRECTAMENTE",
+        "corte_con_contacto": "CUANDO ESTAN EN LLAMADA CON CLIENTE Y SE CORTA",
+        "corte_sin_contacto": "CUANDO CONTESTAN LLAMADA Y SE CORTA O NO HAY RESPUESTA EN LLAMADA "
+    },
+    {
+        "consulta_externa": "SOLICITAN TAXI (CENCOSUD)",
+        "consulta_interna": "CONSULTA POR HORA PENDIENTE/INFORMACION DE HORA AGENDADA",
+        "pendiente_derivacion": "CONSULTAS MEDICAS DE ESPECIALIDAD",
+        "derivacion": "MEDICO A DOMICILIO",
+        "reagendamiento": "CUANDO CENTRO  MEDICO REAGENDA ATENCION( ES ESTE CASO SE SOLICITA INFORMACION DE NUEVA HORA AGENDADA POR CENTRO MEDICO)",
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": "EN CASO QUE CONTESTEN Y NOSE ESCUCHA NADA LO IDEAL ES QU MENCIONEN QUE POR PROTOCOLO DE CALIDAD SE PROCEDE A CORTAR LLAMADO "
+    },
+    {
+        "consulta_externa": "SOLICITA BAJA EXTERNA",
+        "consulta_interna": "CONSULTA POR REEMBOLSO",
+        "pendiente_derivacion": "TOMA DE EXAMENES DE RADIOGRAFIA O LABORATORIO",
+        "derivacion": "ORIENTACION TELEFONICA",
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": " "
+    },
+    {
+        "consulta_externa": "CONSULTA COBERTURA DE SEGURO QUE NO ES NUESTRO",
+        "consulta_interna": "CONSULTA COBERTURA",
+        "pendiente_derivacion": "ASISTENCIA DE MASCOTAS COMO BAÑO DE MASCOTA/HOTELERIA",
+        "derivacion": "DENTAL",
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": " "
+    },
+    {
+        "consulta_externa": "SI SOLICITAN ATENCION Y TIENE DADA DE BAJA EL SERVICIO Y NO A CONTRATADO NADA MAS",
+        "consulta_interna": "SI CLIENTE SOLICITA ATENCION MEDICA O EXAMENES PERO DECISTE DE ELLA AL FINAL",
+        "pendiente_derivacion": null,
+        "derivacion": "SERVICO HOGAR Y AUTO",
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": " "
+    },
+    {
+        "consulta_externa": "CONSULTA POR FACTURACION O COBRO EN TARJETA",
+        "consulta_interna": "BAJAS INTERNAS(CLINICA DOMICILIARIA ABCDIN/BOX DE URGENCIA PREUNIC Y SALACOBRAND",
+        "pendiente_derivacion": null,
+        "derivacion": "TELEMEDICINA DE ESPECIALIDAD",
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": " "
+    },
+    {
+        "consulta_externa": null,
+        "consulta_interna": "CUANDO LLAMAN PARA ANULAR CITA Y NO SOLICITAN AGENDAR NUEVAMENTE",
+        "pendiente_derivacion": null,
+        "derivacion": "BOX DE URGENCIA",
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": " "
+    },
+    {
+        "consulta_externa": null,
+        "consulta_interna": "RESETEO DE CLAVE CLINICA DIGITAL",
+        "pendiente_derivacion": null,
+        "derivacion": "URGENCIA MASCOTAS",
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": " "
+    },
+    {
+        "consulta_externa": null,
+        "consulta_interna": null,
+        "pendiente_derivacion": null,
+        "derivacion": null,
+        "reagendamiento": null,
+        "CORTE CON CONTACTO": null,
+        "corte_sin_contacto": null
+    }
+]

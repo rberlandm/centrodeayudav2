@@ -1,0 +1,82 @@
+[
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Visita de Medico a Domicilio",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "4",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Orientación Medica y Enfermeria Telefónica (24 horas, 365 días del año)",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "no cubre gastos medicos "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Traslado en caso de Urgencia Medica",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": "Son eventos anuales y acumulables al grupo familiar "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Toma de examenes a Domicilio",
+        "Detalle": "SANGRE, ORINA, ELECTROCARDIOGRAMA",
+        "MontoMaximoEvento": "2 UF  ",
+        "EventosMaximos": "2",
+        "Exclusiones": "Eventos anuales, acumulables al grupo familiar. "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Consulta Médica inicial o evaluación de exámenes ",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "2",
+        "Exclusiones": "Eventos anuales, acumulables al grupo familiar. "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "PAP o Mamografia",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar desde los 35 años "
+    },
+    {
+        "Beneficio": "Oncologico Mujer",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "Hemograma VHS, Nitrógeno Ureico, Glicemia, Orina Completa, Creatinina, Colesterol Total, Triglicéridos VDRL. HDL COLESTEROL, LDL COLESTEROL, COLESTEROL TOTAL/ HDL Y VLDL COLESTEROL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico hombre",
+        "Descripcion": "Consulta Medica",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Oncologico hombre",
+        "Descripcion": "Antigeno Prostatico",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Oncologico hombre",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "Hemograma VHS, Nitrógeno Ureico, Glicemia, Orina Completa, Creatinina, Colesterol Total, Triglicéridos VDRL. HDL COLESTEROL, LDL COLESTEROL, COLESTEROL TOTAL/ HDL Y VLDL COLESTEROL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": null
+    }
+]

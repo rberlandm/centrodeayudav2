@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "cobertura": "SIN COBERTURA"
+    },
+    {
+        "id": "2",
+        "cobertura": "CON COBERTURA"
+    },
+    {
+        "id": "3",
+        "cobertura": "EN VALIDACION"
+    }
+]

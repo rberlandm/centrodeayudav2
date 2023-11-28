@@ -1,0 +1,90 @@
+[
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Orientacion medica o Enfermeria telefonica ",
+        "Detalle": " (24 horas 365 dias del año)",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "sin limite",
+        "Exclusiones": "No cubre gastos medicos "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Coordinacion de visita medico a Domicilio o Enfermera a domicilio",
+        "Detalle": null,
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "4",
+        "Exclusiones": "EL CLIENTE PODRA SOLICITAR SI LO REQUIERE EN REEMPLAZO A ESTE SERVICIO UNA ATENCION MEDICA DE URGENCIA AMBULATORIA EN CLINICAS PRIVADAS EN CONVENIO SEÑALADAS POR ASSISTIME CUYO TOPE POR EVENTO SERA DE 2 UF POR EVENTO EN ESTE CASO PUNTUAL , LADISTANCIA DE RADIO URBANO ES  DE 1 HORA PARA MEDICO A DOMICILIO.  "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Traslado de ambulacia en caso de accidente o Enfermedad",
+        "Detalle": "traslado en ambulancia o en el medio mas ideonio hasta el centro hospitalario",
+        "MontoMaximoEvento": "sin limite",
+        "EventosMaximos": "3",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Realizacion de Examenes de Laboratorio",
+        "Detalle": "SANGRE, ORINA, ELECTROCARDIOGRAMA",
+        "MontoMaximoEvento": "2,5 UF por evento",
+        "EventosMaximos": "2",
+        "Exclusiones": "Disponibilidad deprestadore en cada region "
+    },
+    {
+        "Beneficio": "Clinica Domiciliaria",
+        "Descripcion": "Consulta medica derivacion con especilista.",
+        "Detalle": "Cardiologia Traumatologia, Ginecologia, Oftalmologia, Pediatria, Urologia o Broncopulmonar",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Orden Medica  "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Consulta Medica inicial o Evaluacion de Examenes",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "2",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "PAP o Mamografia bilateral",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar desde los 35 años "
+    },
+    {
+        "Beneficio": "Oncologico mujer",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "HEMOGRAMA VHS, NITROGENO UREICO, CREATININA, PERFIL LIPIDICO: COLESTEROL TOTAL, TRIGLICERIDOS VDRL, HDL COLESTEROL, LDL COLESTEROL, COLESTEROL TOTAL/ HDL VLDL COLESTEROL.",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a todas las mujeres del grupo familiar "
+    },
+    {
+        "Beneficio": "Oncologico hombre",
+        "Descripcion": "Consulta y diagnostico clinico preventivo",
+        "Detalle": "anamnesis, examen fisico, control presion arterial, control de peso",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": " "
+    },
+    {
+        "Beneficio": "Oncologico hombre",
+        "Descripcion": "Antigeno Prostatico (PSA)",
+        "Detalle": null,
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": "Cubre a hombres desde los 40 años "
+    },
+    {
+        "Beneficio": "Oncologico hombre",
+        "Descripcion": "Examenes medicos",
+        "Detalle": "HEMOGRAMA VHS, NITROGENO UREICO, CREATININA, PERFIL LIPIDICO: COLESTEROL TOTAL, TRIGLICERIDOS VDRL, HDL COLESTEROL, LDL COLESTEROL, COLESTEROL TOTAL/ HDL VLDL COLESTEROL",
+        "MontoMaximoEvento": "copago 0",
+        "EventosMaximos": "1",
+        "Exclusiones": null
+    }
+]

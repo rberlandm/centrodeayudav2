@@ -1,0 +1,2354 @@
+[
+    {
+        "id": 1,
+        "comuna": "AISEN",
+        "ciudad": "AISEN",
+        "region": "XI"
+    },
+    {
+        "id": 2,
+        "comuna": "ALARCE",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 3,
+        "comuna": "ALGARROBO",
+        "ciudad": "SAN ANTONIO",
+        "region": "V"
+    },
+    {
+        "id": 4,
+        "comuna": "ALHUE",
+        "ciudad": "MELIPILLA",
+        "region": "RM"
+    },
+    {
+        "id": 5,
+        "comuna": "ALTO DEL CARMEN",
+        "ciudad": "HUASCO",
+        "region": "III"
+    },
+    {
+        "id": 6,
+        "comuna": "CABILDO",
+        "ciudad": "PETORCA",
+        "region": "V"
+    },
+    {
+        "id": 7,
+        "comuna": "ALTO HOSPICIO",
+        "ciudad": "IQUIQUE",
+        "region": "I"
+    },
+    {
+        "id": 8,
+        "comuna": "ANCUD",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 9,
+        "comuna": "ANDACOLLO",
+        "ciudad": "ANDACOLLO",
+        "region": "IV"
+    },
+    {
+        "id": 10,
+        "comuna": "CABO DE HORNOS",
+        "ciudad": "ANTARTICA CHILENA",
+        "region": "XII"
+    },
+    {
+        "id": 11,
+        "comuna": "ANGOL",
+        "ciudad": "MALLEO",
+        "region": "IX"
+    },
+    {
+        "id": 12,
+        "comuna": "ANTARTICA",
+        "ciudad": "ANTARTICA CHILENA",
+        "region": "XII"
+    },
+    {
+        "id": 13,
+        "comuna": "ANTOFAGASTA",
+        "ciudad": "ANTOFAGASTA",
+        "region": "II"
+    },
+    {
+        "id": 14,
+        "comuna": "ANTUCO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 15,
+        "comuna": "ARAUCO",
+        "ciudad": "ARAUCO",
+        "region": "VIII"
+    },
+    {
+        "id": 16,
+        "comuna": "ARICA",
+        "ciudad": "ARICA",
+        "region": "XV"
+    },
+    {
+        "id": 17,
+        "comuna": "BIOBIO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 18,
+        "comuna": "BUIN",
+        "ciudad": "MAIPO",
+        "region": "RM"
+    },
+    {
+        "id": 19,
+        "comuna": "BULNES",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 20,
+        "comuna": "CABRERO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 21,
+        "comuna": "CALAMA",
+        "ciudad": "CALAMA",
+        "region": "II"
+    },
+    {
+        "id": 22,
+        "comuna": "CALBUCO",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 23,
+        "comuna": "CALDERA",
+        "ciudad": "CALDERA",
+        "region": "III"
+    },
+    {
+        "id": 24,
+        "comuna": "CALERA",
+        "ciudad": "QUILLOTA",
+        "region": "V"
+    },
+    {
+        "id": 25,
+        "comuna": "CALERA DE TANGO",
+        "ciudad": "MAIPO",
+        "region": "RM"
+    },
+    {
+        "id": 26,
+        "comuna": "CALLE LARGA",
+        "ciudad": "LOS ANDES",
+        "region": "V"
+    },
+    {
+        "id": 27,
+        "comuna": "CAMARONES",
+        "ciudad": "ARICA",
+        "region": "XV"
+    },
+    {
+        "id": 28,
+        "comuna": "CAMI�A",
+        "ciudad": "TAMARUGAL",
+        "region": "I"
+    },
+    {
+        "id": 29,
+        "comuna": "CANELA",
+        "ciudad": "CHOAPA",
+        "region": "IV"
+    },
+    {
+        "id": 30,
+        "comuna": "CA�ETE",
+        "ciudad": "CA�ETE",
+        "region": "VIII"
+    },
+    {
+        "id": 31,
+        "comuna": "CARAHUE",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 32,
+        "comuna": "CARTAGENA",
+        "ciudad": "SAN ANTONIO",
+        "region": "V"
+    },
+    {
+        "id": 33,
+        "comuna": "CASA BLANCA",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 34,
+        "comuna": "CASMA",
+        "ciudad": "FRUTILLAR",
+        "region": "X"
+    },
+    {
+        "id": 35,
+        "comuna": "CASTRO",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 36,
+        "comuna": "CATEMU",
+        "ciudad": "SAN FELIPE",
+        "region": "V"
+    },
+    {
+        "id": 37,
+        "comuna": "CAUQUENES",
+        "ciudad": "CAUQUENES",
+        "region": "VII"
+    },
+    {
+        "id": 38,
+        "comuna": "CERRILLOS",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 39,
+        "comuna": "CERRO NAVIA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 40,
+        "comuna": "CHAITEN",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 41,
+        "comuna": "CHAMIZA",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 42,
+        "comuna": "CHANCO",
+        "ciudad": "CAUQUENES",
+        "region": "VII"
+    },
+    {
+        "id": 43,
+        "comuna": "CHA�ARAL",
+        "ciudad": "CHA�ARAL",
+        "region": "III"
+    },
+    {
+        "id": 44,
+        "comuna": "CHEPICA",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 45,
+        "comuna": "CHIGUAYANTE",
+        "ciudad": "CHIGUAYANTE",
+        "region": "VIII"
+    },
+    {
+        "id": 46,
+        "comuna": "CHILE CHICO",
+        "ciudad": "GENERAL CARRERA",
+        "region": "XI"
+    },
+    {
+        "id": 47,
+        "comuna": "CHILLAN",
+        "ciudad": "CHILLAN",
+        "region": "XVI"
+    },
+    {
+        "id": 48,
+        "comuna": "CHILLAN VIEJO",
+        "ciudad": "�UBLE",
+        "region": "VIII"
+    },
+    {
+        "id": 49,
+        "comuna": "CHIMBARONGO",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 50,
+        "comuna": "CHINCUI",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 51,
+        "comuna": "CHOLCHOL",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 52,
+        "comuna": "CHONCHI",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 53,
+        "comuna": "CISNES",
+        "ciudad": "AIS�N",
+        "region": "XI"
+    },
+    {
+        "id": 54,
+        "comuna": "COBQUECURA",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 55,
+        "comuna": "COCHAMO",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 56,
+        "comuna": "COCHRANE",
+        "ciudad": "CAPIT�N PRAT",
+        "region": "XI"
+    },
+    {
+        "id": 57,
+        "comuna": "CODEGUA",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 58,
+        "comuna": "COELEMU",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 59,
+        "comuna": "COIHUECO",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 60,
+        "comuna": "COINCO",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 61,
+        "comuna": "COLBUN",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 62,
+        "comuna": "COLCHANE",
+        "ciudad": "TAMARUGAL",
+        "region": "I"
+    },
+    {
+        "id": 63,
+        "comuna": "COLIGUAL",
+        "ciudad": "PURRANQUE",
+        "region": "X"
+    },
+    {
+        "id": 64,
+        "comuna": "COLINA",
+        "ciudad": "CHACABUCO",
+        "region": "RM"
+    },
+    {
+        "id": 65,
+        "comuna": "COLLIPULLI",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 66,
+        "comuna": "COLTAUCO",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 67,
+        "comuna": "COMBARBALA",
+        "ciudad": "LIMARI",
+        "region": "IV"
+    },
+    {
+        "id": 68,
+        "comuna": "CONCEPCI�N",
+        "ciudad": "CONCEPCI�N",
+        "region": "VIII"
+    },
+    {
+        "id": 69,
+        "comuna": "CONCHALI",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 70,
+        "comuna": "CONCON",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 71,
+        "comuna": "CONSTITUCION",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 72,
+        "comuna": "CONTULMO",
+        "ciudad": "ARAUCO",
+        "region": "VIII"
+    },
+    {
+        "id": 73,
+        "comuna": "COPIAPO",
+        "ciudad": "COPIAPO",
+        "region": "III"
+    },
+    {
+        "id": 74,
+        "comuna": "COQUIMBO",
+        "ciudad": "COQUIMBO",
+        "region": "IV"
+    },
+    {
+        "id": 75,
+        "comuna": "CORONEL",
+        "ciudad": "CORONEL",
+        "region": "VIII"
+    },
+    {
+        "id": 76,
+        "comuna": "CORRAL",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 77,
+        "comuna": "COYHAIQUE",
+        "ciudad": "COYHAIQUE",
+        "region": "XI"
+    },
+    {
+        "id": 78,
+        "comuna": "CUNCO",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 79,
+        "comuna": "CURACAUTIN",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 80,
+        "comuna": "CURACAVI",
+        "ciudad": "MELIPILLA",
+        "region": "RM"
+    },
+    {
+        "id": 81,
+        "comuna": "CURACO DE VELEZ",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 82,
+        "comuna": "CURANILAHUE",
+        "ciudad": "CURANILAHUE",
+        "region": "VIII"
+    },
+    {
+        "id": 83,
+        "comuna": "CURARREHUE",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 84,
+        "comuna": "CURAUMA",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 85,
+        "comuna": "CUREPTO",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 86,
+        "comuna": "CURIC�",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 87,
+        "comuna": "DALCAHUE",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 88,
+        "comuna": "DIEGO DE ALMAGRO",
+        "ciudad": "DIEGO DE ALMAGRO",
+        "region": "III"
+    },
+    {
+        "id": 89,
+        "comuna": "DO�IHUE",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 90,
+        "comuna": "EL BOSQUE",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 91,
+        "comuna": "EL CARMEN",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 92,
+        "comuna": "EL MONTE",
+        "ciudad": "TALAGANTE",
+        "region": "RM"
+    },
+    {
+        "id": 93,
+        "comuna": "EL OLIVAR",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 94,
+        "comuna": "EL QUISCO",
+        "ciudad": "SAN ANTONIO",
+        "region": "V"
+    },
+    {
+        "id": 95,
+        "comuna": "EL TABO",
+        "ciudad": "SAN ANTONIO",
+        "region": "V"
+    },
+    {
+        "id": 96,
+        "comuna": "EL TRAPEN",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 97,
+        "comuna": "EMPEDRADO",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 98,
+        "comuna": "ENSENADA",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 99,
+        "comuna": "ERCILLA",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 100,
+        "comuna": "ESTACION CENTRAL",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 101,
+        "comuna": "FLORIDA",
+        "ciudad": "FLORIDA",
+        "region": "VIII"
+    },
+    {
+        "id": 102,
+        "comuna": "FREIRE",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 103,
+        "comuna": "FREIRINA",
+        "ciudad": "HUASCO",
+        "region": "III"
+    },
+    {
+        "id": 104,
+        "comuna": "FRESIA",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 105,
+        "comuna": "FRUTILLAR",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 106,
+        "comuna": "FUTALEUFU",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 107,
+        "comuna": "FUTRONO",
+        "ciudad": "RANCO",
+        "region": "XIV"
+    },
+    {
+        "id": 108,
+        "comuna": "GALVARINO",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 109,
+        "comuna": "GENERAL LAGOS",
+        "ciudad": "PARINACOTA",
+        "region": "XV"
+    },
+    {
+        "id": 110,
+        "comuna": "GORBEA",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 111,
+        "comuna": "GRANEROS",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 112,
+        "comuna": "GUATECAS",
+        "ciudad": "AISEN",
+        "region": "XI"
+    },
+    {
+        "id": 113,
+        "comuna": "HIJUELAS",
+        "ciudad": "QUILLOTA",
+        "region": "V"
+    },
+    {
+        "id": 114,
+        "comuna": "HUALAIHUE",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 115,
+        "comuna": "HUALA�E",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 116,
+        "comuna": "HUALPEN",
+        "ciudad": "CONCEPCI�N",
+        "region": "VIII"
+    },
+    {
+        "id": 117,
+        "comuna": "HUALQUI",
+        "ciudad": "CONCEPCI�N",
+        "region": "VIII"
+    },
+    {
+        "id": 118,
+        "comuna": "HUARA",
+        "ciudad": "TAMARUGAL",
+        "region": "I"
+    },
+    {
+        "id": 119,
+        "comuna": "HUARA",
+        "ciudad": "EL LOA",
+        "region": "II"
+    },
+    {
+        "id": 120,
+        "comuna": "HUASCO",
+        "ciudad": "HUASCO",
+        "region": "III"
+    },
+    {
+        "id": 121,
+        "comuna": "HUECHURABA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 122,
+        "comuna": "ILLAPEL",
+        "ciudad": "CHOAPA",
+        "region": "IV"
+    },
+    {
+        "id": 123,
+        "comuna": "INDEPENDENCIA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 124,
+        "comuna": "IQUIQUE",
+        "ciudad": "IQUIQUE",
+        "region": "I"
+    },
+    {
+        "id": 125,
+        "comuna": "ISLA DE MAIPO",
+        "ciudad": "TALAGANTE",
+        "region": "RM"
+    },
+    {
+        "id": 126,
+        "comuna": "ISLA DE PASCUA",
+        "ciudad": "ISLA DE PASCUA",
+        "region": "V"
+    },
+    {
+        "id": 127,
+        "comuna": "JUAN FERNANDEZ",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 128,
+        "comuna": "LA CALERA",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 129,
+        "comuna": "LA CISTERNA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 130,
+        "comuna": "LA CRUZ",
+        "ciudad": "QUILLOTA",
+        "region": "V"
+    },
+    {
+        "id": 131,
+        "comuna": "LA ESTRELLA",
+        "ciudad": "CARDENAL CARO",
+        "region": "VI"
+    },
+    {
+        "id": 132,
+        "comuna": "LA FLORIDA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 133,
+        "comuna": "LA GRANJA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 134,
+        "comuna": "LA HIGUERA",
+        "ciudad": "ELQUI",
+        "region": "IV"
+    },
+    {
+        "id": 135,
+        "comuna": "LA LIGUA",
+        "ciudad": "PETORCA",
+        "region": "V"
+    },
+    {
+        "id": 136,
+        "comuna": "LA PINTANA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 137,
+        "comuna": "LA REINA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 138,
+        "comuna": "LA SERENA",
+        "ciudad": "LA SERENA",
+        "region": "IV"
+    },
+    {
+        "id": 139,
+        "comuna": "LA UNION",
+        "ciudad": "RANCO",
+        "region": "XIV"
+    },
+    {
+        "id": 140,
+        "comuna": "LAGO RANCO",
+        "ciudad": "RANCO",
+        "region": "XIV"
+    },
+    {
+        "id": 141,
+        "comuna": "LAGO VERDE",
+        "ciudad": "COYHAIQUE",
+        "region": "XI"
+    },
+    {
+        "id": 142,
+        "comuna": "LAGUNA BLANCA",
+        "ciudad": "MAGALLANES",
+        "region": "XII"
+    },
+    {
+        "id": 143,
+        "comuna": "LAGUNA VERDE",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 144,
+        "comuna": "LAJA",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 145,
+        "comuna": "LAMPA",
+        "ciudad": "CHACABUCO",
+        "region": "RM"
+    },
+    {
+        "id": 146,
+        "comuna": "LANCO",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 147,
+        "comuna": "LAS CABRAS",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 148,
+        "comuna": "LAS CONDES",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 149,
+        "comuna": "LAS QUEMAS",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 150,
+        "comuna": "LAUTARO",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 151,
+        "comuna": "LEBU",
+        "ciudad": "ARAUCO",
+        "region": "VIII"
+    },
+    {
+        "id": 152,
+        "comuna": "LICANTEN",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 153,
+        "comuna": "LIMACHE",
+        "ciudad": "MARGA MARGA",
+        "region": "V"
+    },
+    {
+        "id": 154,
+        "comuna": "LINARES",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 155,
+        "comuna": "LITUECHE",
+        "ciudad": "CARDENAL CARO",
+        "region": "VI"
+    },
+    {
+        "id": 156,
+        "comuna": "LLAILLAY",
+        "ciudad": "SAN FELIPE",
+        "region": "V"
+    },
+    {
+        "id": 157,
+        "comuna": "LLANQUIHUE",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 158,
+        "comuna": "LO BARNECHEA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 159,
+        "comuna": "LO ESPEJO",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 160,
+        "comuna": "LO PRADO",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 161,
+        "comuna": "LOLOL",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 162,
+        "comuna": "LONCOCHE",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 163,
+        "comuna": "LONCOTORO",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 164,
+        "comuna": "LONGAVI",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 165,
+        "comuna": "LONQUIMAY",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 166,
+        "comuna": "LOS ALAMOS",
+        "ciudad": "ARAUCO",
+        "region": "VIII"
+    },
+    {
+        "id": 167,
+        "comuna": "LOS ANDES",
+        "ciudad": "LOS ANDES",
+        "region": "V"
+    },
+    {
+        "id": 168,
+        "comuna": "LOS ANGELES",
+        "ciudad": "LOS ANGELES",
+        "region": "VIII"
+    },
+    {
+        "id": 169,
+        "comuna": "LOS BAJOS",
+        "ciudad": "FRUTILLAR",
+        "region": "X"
+    },
+    {
+        "id": 170,
+        "comuna": "LOS LAGOS",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 171,
+        "comuna": "LOS MAITENES",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 172,
+        "comuna": "LOS MUERMOS",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 173,
+        "comuna": "LOS SAUCES",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 174,
+        "comuna": "LOS VILOS",
+        "ciudad": "CHOAPA",
+        "region": "IV"
+    },
+    {
+        "id": 175,
+        "comuna": "LOTA",
+        "ciudad": "LOTA",
+        "region": "VIII"
+    },
+    {
+        "id": 176,
+        "comuna": "LUMACO",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 177,
+        "comuna": "MACHALI",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 178,
+        "comuna": "MACUL",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 179,
+        "comuna": "MAFIL",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 180,
+        "comuna": "MAIPU",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 181,
+        "comuna": "MALLOA",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 182,
+        "comuna": "MANQUEHUE",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 183,
+        "comuna": "MARCHIHUE",
+        "ciudad": "CARDENAL CARO",
+        "region": "VI"
+    },
+    {
+        "id": 184,
+        "comuna": "MARIA ELENA",
+        "ciudad": "TOCOPILLA",
+        "region": "II"
+    },
+    {
+        "id": 185,
+        "comuna": "MARIA PINTO",
+        "ciudad": "MELIPILLA",
+        "region": "RM"
+    },
+    {
+        "id": 186,
+        "comuna": "SAN JOSE DE MARIQUINA",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 187,
+        "comuna": "MAULE",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 188,
+        "comuna": "MAULLIN",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 189,
+        "comuna": "MEJILLONES",
+        "ciudad": "ANTOFAGASTA",
+        "region": "II"
+    },
+    {
+        "id": 190,
+        "comuna": "MELIPEUCO",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 191,
+        "comuna": "MELIPILLA",
+        "ciudad": "MELIPILLA",
+        "region": "RM"
+    },
+    {
+        "id": 192,
+        "comuna": "METRI",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 193,
+        "comuna": "MOLINA",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 194,
+        "comuna": "MOLINOS",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 195,
+        "comuna": "MONTE PATRIA",
+        "ciudad": "LIMARI",
+        "region": "IV"
+    },
+    {
+        "id": 196,
+        "comuna": "MOSTAZAL",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 197,
+        "comuna": "MULCHEN",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 198,
+        "comuna": "NACIMIENTO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 199,
+        "comuna": "NANCAGUA",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 200,
+        "comuna": "NATALES",
+        "ciudad": "�LTIMA ESPERANZA",
+        "region": "XII"
+    },
+    {
+        "id": 201,
+        "comuna": "NAVIDAD",
+        "ciudad": "CARDENAL CARO",
+        "region": "VI"
+    },
+    {
+        "id": 202,
+        "comuna": "NEGRETE",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 203,
+        "comuna": "NINHUE",
+        "ciudad": "XVI",
+        "region": "VIII"
+    },
+    {
+        "id": 204,
+        "comuna": "NOGALES",
+        "ciudad": "QUILLOTA",
+        "region": "V"
+    },
+    {
+        "id": 205,
+        "comuna": "NUEVA BRAUNAU",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 206,
+        "comuna": "NUEVA IMPERIAL",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 207,
+        "comuna": "�IQUEN",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 208,
+        "comuna": "�U�OA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 209,
+        "comuna": "O�HIGGINS",
+        "ciudad": "CAPIT�N PRAT",
+        "region": "XI"
+    },
+    {
+        "id": 210,
+        "comuna": "OLLAGUE",
+        "ciudad": "EL LOA",
+        "region": "II"
+    },
+    {
+        "id": 211,
+        "comuna": "OLMUE",
+        "ciudad": "MARGA MARGA",
+        "region": "V"
+    },
+    {
+        "id": 212,
+        "comuna": "OSORNO",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 213,
+        "comuna": "OVALLE",
+        "ciudad": "LIMARI",
+        "region": "IV"
+    },
+    {
+        "id": 214,
+        "comuna": "PADRE HURTADO",
+        "ciudad": "TALAGANTE",
+        "region": "RM"
+    },
+    {
+        "id": 215,
+        "comuna": "PADRE LAS CASAS",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 216,
+        "comuna": "PAIGUANO",
+        "ciudad": "ELQUI",
+        "region": "IV"
+    },
+    {
+        "id": 217,
+        "comuna": "PAILLACO",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 218,
+        "comuna": "PAINE",
+        "ciudad": "MAIPO",
+        "region": "RM"
+    },
+    {
+        "id": 219,
+        "comuna": "PELARCO",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 220,
+        "comuna": "PALMILLA",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 221,
+        "comuna": "PANGUIPULLI",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 222,
+        "comuna": "PANITAO",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 223,
+        "comuna": "PANQUEHUE",
+        "ciudad": "SAN FELIPE",
+        "region": "V"
+    },
+    {
+        "id": 224,
+        "comuna": "PAPUDO",
+        "ciudad": "PETORCA",
+        "region": "V"
+    },
+    {
+        "id": 225,
+        "comuna": "PARAGUAY",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 226,
+        "comuna": "PAREDONES",
+        "ciudad": "CARDENAL CARO",
+        "region": "VI"
+    },
+    {
+        "id": 227,
+        "comuna": "PARRAL",
+        "ciudad": "PARRAL",
+        "region": "VII"
+    },
+    {
+        "id": 228,
+        "comuna": "PEDRO AGUIRRE CERDA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 229,
+        "comuna": "PELARCO",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 230,
+        "comuna": "PELLINES",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 231,
+        "comuna": "PELLUHUE",
+        "ciudad": "CAUQUENES",
+        "region": "VII"
+    },
+    {
+        "id": 232,
+        "comuna": "PEMUCO",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 233,
+        "comuna": "PENCAHUE",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 234,
+        "comuna": "PENCO",
+        "ciudad": "CONCEPCI�N",
+        "region": "VIII"
+    },
+    {
+        "id": 235,
+        "comuna": "PE�ABLANCA",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 236,
+        "comuna": "PE�AFLOR",
+        "ciudad": "TALAGANTE",
+        "region": "RM"
+    },
+    {
+        "id": 237,
+        "comuna": "PE�ALOLEN",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 238,
+        "comuna": "PERALILLO",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 239,
+        "comuna": "PERQUENCO",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 240,
+        "comuna": "PETORCA",
+        "ciudad": "PETORCA",
+        "region": "V"
+    },
+    {
+        "id": 241,
+        "comuna": "PEUMO",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 242,
+        "comuna": "PICA",
+        "ciudad": "TAMARUGAL",
+        "region": "I"
+    },
+    {
+        "id": 243,
+        "comuna": "PICA",
+        "ciudad": "EL LOA",
+        "region": "II"
+    },
+    {
+        "id": 244,
+        "comuna": "PICHIDEGUA",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 245,
+        "comuna": "PICHILAGUNA",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 246,
+        "comuna": "PICHILEMU",
+        "ciudad": "CARDENAL CARO",
+        "region": "VI"
+    },
+    {
+        "id": 247,
+        "comuna": "PICHIQUILLAIPE",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 248,
+        "comuna": "PIEDRA AZUL",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 249,
+        "comuna": "PINTO",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 250,
+        "comuna": "PIRQUE",
+        "ciudad": "PIRQUE",
+        "region": "RM"
+    },
+    {
+        "id": 251,
+        "comuna": "PITRUFQUEN",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 252,
+        "comuna": "PLACILLA",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 253,
+        "comuna": "PLAYA MAQUI",
+        "ciudad": "FRUTILLAR",
+        "region": "X"
+    },
+    {
+        "id": 254,
+        "comuna": "PLAYA VENAO",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 255,
+        "comuna": "PORTEZUELO",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 256,
+        "comuna": "PORVENIR",
+        "ciudad": "TIERRA DEL FUEGO",
+        "region": "XII"
+    },
+    {
+        "id": 257,
+        "comuna": "POZO ALMONTE",
+        "ciudad": "TAMARUGAL",
+        "region": "I"
+    },
+    {
+        "id": 258,
+        "comuna": "PRIMAVERA",
+        "ciudad": "TIERRA DEL FUEGO",
+        "region": "XII"
+    },
+    {
+        "id": 259,
+        "comuna": "PROVIDENCIA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 260,
+        "comuna": "PUCHUNCAVI",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 261,
+        "comuna": "PUCON",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 262,
+        "comuna": "PUDAHUEL",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 263,
+        "comuna": "PUENTE ALTO",
+        "ciudad": "PUENTE ALTO",
+        "region": "RM"
+    },
+    {
+        "id": 264,
+        "comuna": "PUERTO AYSEN",
+        "ciudad": "AYS�N",
+        "region": "XI"
+    },
+    {
+        "id": 265,
+        "comuna": "PUERTO CHACABUCO",
+        "ciudad": "AYS�N",
+        "region": "XI"
+    },
+    {
+        "id": 266,
+        "comuna": "PUERTO CHICO",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 267,
+        "comuna": "PUERTO DOMEYCO",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 268,
+        "comuna": "PUERTO MONTT",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 269,
+        "comuna": "PUERTO NATALES",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 270,
+        "comuna": "PUERTO NATALES",
+        "ciudad": "PUERTO MONTT",
+        "region": "XII"
+    },
+    {
+        "id": 271,
+        "comuna": "PUERTO OCTAY",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 272,
+        "comuna": "PUERTO PHILIPPI",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 273,
+        "comuna": "PUERTO VARAS",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 274,
+        "comuna": "PUERTO WILLIAMS",
+        "ciudad": "�LTIMA ESPERANZA",
+        "region": "XII"
+    },
+    {
+        "id": 275,
+        "comuna": "PUMANQUE",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 276,
+        "comuna": "PUNITAQUI",
+        "ciudad": "LIMARI",
+        "region": "IV"
+    },
+    {
+        "id": 277,
+        "comuna": "PUNTA ARENAS",
+        "ciudad": "PUNTA ARENAS",
+        "region": "XII"
+    },
+    {
+        "id": 278,
+        "comuna": "PUNTA LARGA",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 279,
+        "comuna": "PUQUELDON",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 280,
+        "comuna": "PUREN",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 281,
+        "comuna": "PURRANQUE",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 282,
+        "comuna": "PUTAENDO",
+        "ciudad": "SAN FELIPE",
+        "region": "V"
+    },
+    {
+        "id": 283,
+        "comuna": "PUTRE",
+        "ciudad": "PARINACOTA",
+        "region": "XV"
+    },
+    {
+        "id": 284,
+        "comuna": "PUYEGUE",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 285,
+        "comuna": "QUEILEN",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 286,
+        "comuna": "QUELLON",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 287,
+        "comuna": "QUEMCHI",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 288,
+        "comuna": "QUILACO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 289,
+        "comuna": "QUILANTO",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 290,
+        "comuna": "QUILICURA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 291,
+        "comuna": "QUILLECO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 292,
+        "comuna": "QUILLON",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 293,
+        "comuna": "QUILLOTA",
+        "ciudad": "QUILLOTA",
+        "region": "V"
+    },
+    {
+        "id": 294,
+        "comuna": "QUILPUE",
+        "ciudad": "QUILPUE",
+        "region": "V"
+    },
+    {
+        "id": 295,
+        "comuna": "QUINCHAO",
+        "ciudad": "CHILO�",
+        "region": "X"
+    },
+    {
+        "id": 296,
+        "comuna": "QUINTA DE TOLCOCO",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 297,
+        "comuna": "QUINTA NORMAL",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 298,
+        "comuna": "QUINTERO",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 299,
+        "comuna": "QUIRIHUE",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 300,
+        "comuna": "RANCAGUA",
+        "ciudad": "RANCAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 301,
+        "comuna": "RANQUIL",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 302,
+        "comuna": "RAUCO",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 303,
+        "comuna": "RECOLETA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 304,
+        "comuna": "REINACO",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 305,
+        "comuna": "RENCA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 306,
+        "comuna": "RENGO",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 307,
+        "comuna": "RE�ACA",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 308,
+        "comuna": "REQUINOA",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 309,
+        "comuna": "RETIRO",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 310,
+        "comuna": "RINCONADA",
+        "ciudad": "LOS ANDES",
+        "region": "V"
+    },
+    {
+        "id": 311,
+        "comuna": "RIO BUENO",
+        "ciudad": "RANCO",
+        "region": "XIV"
+    },
+    {
+        "id": 312,
+        "comuna": "RIO CLARO",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 313,
+        "comuna": "RIO HURTADO",
+        "ciudad": "LIMARI",
+        "region": "IV"
+    },
+    {
+        "id": 314,
+        "comuna": "RIO IBA�EZ",
+        "ciudad": "GENERAL CARRERA",
+        "region": "XI"
+    },
+    {
+        "id": 315,
+        "comuna": "RIO NEGRO",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 316,
+        "comuna": "RIO PESCAO",
+        "ciudad": "PUERTO VARAS",
+        "region": "X"
+    },
+    {
+        "id": 317,
+        "comuna": "RIO VERDE",
+        "ciudad": "MAGALLANES",
+        "region": "XII"
+    },
+    {
+        "id": 318,
+        "comuna": "RODELILLO",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 319,
+        "comuna": "ROMERAL",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 320,
+        "comuna": "SAAVEDRA",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 321,
+        "comuna": "SAGRADA FAMILIA",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 322,
+        "comuna": "SALAMANCA",
+        "ciudad": "CHOAPA",
+        "region": "IV"
+    },
+    {
+        "id": 323,
+        "comuna": "SAN ANTONIO",
+        "ciudad": "SAN ANTONIO",
+        "region": "V"
+    },
+    {
+        "id": 324,
+        "comuna": "SAN BERNARDO",
+        "ciudad": "MAIPO",
+        "region": "RM"
+    },
+    {
+        "id": 325,
+        "comuna": "SAN CARLOS",
+        "ciudad": "SAN CARLOS",
+        "region": "XVI"
+    },
+    {
+        "id": 326,
+        "comuna": "SAN CLEMENTE",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 327,
+        "comuna": "SAN ESTEBAN",
+        "ciudad": "LOS ANDES",
+        "region": "V"
+    },
+    {
+        "id": 328,
+        "comuna": "SAN FABIAN",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 329,
+        "comuna": "SAN FELIPE",
+        "ciudad": "SAN FELIPE",
+        "region": "V"
+    },
+    {
+        "id": 330,
+        "comuna": "SAN FERNANDO",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 331,
+        "comuna": "SAN FRANCISCO DE MOSTAZAL",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 332,
+        "comuna": "SAN GREGORIO",
+        "ciudad": "MAGALLANES",
+        "region": "XII"
+    },
+    {
+        "id": 333,
+        "comuna": "SAN IGNACIO",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 334,
+        "comuna": "SAN JAVIER",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 335,
+        "comuna": "SAN JOAQUIN",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 336,
+        "comuna": "SAN JOSE DE MAIPO",
+        "ciudad": "SAN JOSE DE MAIPO",
+        "region": "RM"
+    },
+    {
+        "id": 337,
+        "comuna": "SAN JUAN DE LA COSTA",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 338,
+        "comuna": "SAN MIGUEL",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 339,
+        "comuna": "SAN NICOLAS",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 340,
+        "comuna": "SAN PABLO",
+        "ciudad": "OSORNO",
+        "region": "X"
+    },
+    {
+        "id": 341,
+        "comuna": "SAN PEDRO",
+        "ciudad": "MELIPILLA",
+        "region": "RM"
+    },
+    {
+        "id": 342,
+        "comuna": "SAN PEDRO DE ATACAMA",
+        "ciudad": "EL LOA",
+        "region": "II"
+    },
+    {
+        "id": 343,
+        "comuna": "SAN PEDRO DE LA PAZ",
+        "ciudad": "SAN PEDRO DE LA PAZ",
+        "region": "VIII"
+    },
+    {
+        "id": 344,
+        "comuna": "SAN RAFAEL",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 345,
+        "comuna": "SAN RAMON",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 346,
+        "comuna": "SAN ROSENDO",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 347,
+        "comuna": "SAN VICENTE",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 348,
+        "comuna": "SAN VICENTE DE TAGUA TAGUA",
+        "ciudad": "CACHAPOAL",
+        "region": "VI"
+    },
+    {
+        "id": 349,
+        "comuna": "SANTA BARBARA",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 350,
+        "comuna": "SANTA CRUZ",
+        "ciudad": "COLCHAGUA",
+        "region": "VI"
+    },
+    {
+        "id": 351,
+        "comuna": "SANTA JUANA",
+        "ciudad": "CONCEPCI�N",
+        "region": "VIII"
+    },
+    {
+        "id": 352,
+        "comuna": "SANTA MARIA",
+        "ciudad": "SAN FELIPE",
+        "region": "V"
+    },
+    {
+        "id": 353,
+        "comuna": "SANTIAGO",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 354,
+        "comuna": "SANTO DOMINGO",
+        "ciudad": "SAN ANTONIO",
+        "region": "V"
+    },
+    {
+        "id": 355,
+        "comuna": "SIERRA GORDA",
+        "ciudad": "ANTOFAGASTA",
+        "region": "II"
+    },
+    {
+        "id": 356,
+        "comuna": "TALAGANTE",
+        "ciudad": "TALAGANTE",
+        "region": "RM"
+    },
+    {
+        "id": 357,
+        "comuna": "TALCA",
+        "ciudad": "TALCA",
+        "region": "VII"
+    },
+    {
+        "id": 358,
+        "comuna": "TALCAHUANO",
+        "ciudad": "TALCAHUANO",
+        "region": "VIII"
+    },
+    {
+        "id": 359,
+        "comuna": "TALTAL",
+        "ciudad": "ANTOFAGASTA",
+        "region": "II"
+    },
+    {
+        "id": 360,
+        "comuna": "TEMUCO",
+        "ciudad": "TEMUCO",
+        "region": "IX"
+    },
+    {
+        "id": 361,
+        "comuna": "TENO",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 362,
+        "comuna": "TEODORO SCHMIDT",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 363,
+        "comuna": "TEPUAL",
+        "ciudad": "PUERTO MONTT",
+        "region": "X"
+    },
+    {
+        "id": 364,
+        "comuna": "TIERRA AMARILLA",
+        "ciudad": "TIERRA AMARILLA",
+        "region": "III"
+    },
+    {
+        "id": 365,
+        "comuna": "TILTIL",
+        "ciudad": "CHACABUCO",
+        "region": "RM"
+    },
+    {
+        "id": 366,
+        "comuna": "TIMAUKEL",
+        "ciudad": "TIERRA DEL FUEGO",
+        "region": "XII"
+    },
+    {
+        "id": 367,
+        "comuna": "TIRUA",
+        "ciudad": "ARAUCO",
+        "region": "VIII"
+    },
+    {
+        "id": 368,
+        "comuna": "TOCOPILLA",
+        "ciudad": "TOCOPILLA",
+        "region": "II"
+    },
+    {
+        "id": 369,
+        "comuna": "TOLTEN",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 370,
+        "comuna": "TOM�",
+        "ciudad": "TOM�",
+        "region": "VIII"
+    },
+    {
+        "id": 371,
+        "comuna": "TORRES DEL PAINE",
+        "ciudad": "�LTIMA ESPERANZA",
+        "region": "XII"
+    },
+    {
+        "id": 372,
+        "comuna": "TORTEL",
+        "ciudad": "CAPIT�N PRAT",
+        "region": "XI"
+    },
+    {
+        "id": 373,
+        "comuna": "TOTORAL",
+        "ciudad": "LLANQUIHUE",
+        "region": "X"
+    },
+    {
+        "id": 374,
+        "comuna": "TRAIGUEN",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 375,
+        "comuna": "TREGUACO",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 376,
+        "comuna": "TUCAPEL",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 377,
+        "comuna": "VALDIVIA",
+        "ciudad": "VALDIVIA",
+        "region": "XIV"
+    },
+    {
+        "id": 378,
+        "comuna": "VALLENAR",
+        "ciudad": "VALLENAR",
+        "region": "III"
+    },
+    {
+        "id": 379,
+        "comuna": "VALPARAISO",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 380,
+        "comuna": "VICHUQUEN",
+        "ciudad": "CURIC�",
+        "region": "VII"
+    },
+    {
+        "id": 381,
+        "comuna": "VICTORIA",
+        "ciudad": "MALLECO",
+        "region": "IX"
+    },
+    {
+        "id": 382,
+        "comuna": "VICU�A",
+        "ciudad": "VICU�A",
+        "region": "IV"
+    },
+    {
+        "id": 383,
+        "comuna": "VILCUN",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 384,
+        "comuna": "VILLA ALEGRE",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 385,
+        "comuna": "VILLA ALEMANA",
+        "ciudad": "MARGA MARGA",
+        "region": "V"
+    },
+    {
+        "id": 386,
+        "comuna": "VILLARICA",
+        "ciudad": "CAUTIN",
+        "region": "IX"
+    },
+    {
+        "id": 387,
+        "comuna": "VI�A DEL MAR",
+        "ciudad": "VALPARAISO",
+        "region": "V"
+    },
+    {
+        "id": 388,
+        "comuna": "VITACURA",
+        "ciudad": "SANTIAGO",
+        "region": "RM"
+    },
+    {
+        "id": 389,
+        "comuna": "YERBAS BUENAS",
+        "ciudad": "LINARES",
+        "region": "VII"
+    },
+    {
+        "id": 390,
+        "comuna": "YUMBEL",
+        "ciudad": "BIO BIO",
+        "region": "VIII"
+    },
+    {
+        "id": 391,
+        "comuna": "YUNGAY",
+        "ciudad": "�UBLE",
+        "region": "XVI"
+    },
+    {
+        "id": 392,
+        "comuna": "ZAPALLAR",
+        "ciudad": "PETORCA",
+        "region": "V"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "prevision": "FONASA A "
+    },
+    {
+        "id": "2",
+        "prevision": "FONASA B "
+    },
+    {
+        "id": "3",
+        "prevision": "FONASA C "
+    },
+    {
+        "id": "4",
+        "prevision": "FONASA D "
+    },
+    {
+        "id": "5",
+        "prevision": "FONASA B-C-D "
+    },
+    {
+        "id": "6",
+        "prevision": "ISAPRE BANMEDICA "
+    },
+    {
+        "id": "7",
+        "prevision": "ISAPRE CONSALUD "
+    },
+    {
+        "id": "8",
+        "prevision": "ISAPRE COLMENA "
+    },
+    {
+        "id": "9",
+        "prevision": "ISAPRE CRUZ BLANCA "
+    },
+    {
+        "id": "10",
+        "prevision": "ISAPRE NUEVA MAS VIDA "
+    },
+    {
+        "id": "11",
+        "prevision": "ISAPRE VIDA TRES "
+    },
+    {
+        "id": "12",
+        "prevision": "PARTICULAR "
+    },
+    {
+        "id": "13",
+        "prevision": "DIPRECA "
+    },
+    {
+        "id": "14",
+        "prevision": "CAPREDENA "
+    }
+]

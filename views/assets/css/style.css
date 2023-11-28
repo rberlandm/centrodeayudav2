@@ -365,7 +365,7 @@ h6 {
 }
 
 .logo img {
-  max-height: 26px;
+
   margin-right: 6px;
 }
 
@@ -1266,4 +1266,87 @@ h6 {
   background-color: #f2f2f3;
   border-radius: 1rem;
   padding: 1rem 2rem;
+}
+
+.img-marca {
+  max-width: 10.5rem;
+  margin-right: 1rem;
+}
+
+
+.btn-ver {
+  background-color: #61A3BA;
+  color: #fff;
+  text-decoration: none;
+  padding: .2rem .4rem;
+  border-radius: .6rem;
+}
+
+.btn-ver:hover {
+  background-color: #7ED7C1;
+}
+
+.icon-zoom {
+  width: 15px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+
+.titulo {
+  font-size: 18px;
+  font-weight: 500;
+  color: #012970;
+  font-family: "Poppins", sans-serif;
+}
+
+
+.subtitulo {
+  font-size: 15px;
+  font-weight: 500;
+  color: #012970;
+  font-family: "Poppins", sans-serif;
+}
+
+.recuadro {
+  border: 1px solid gray;
+  padding: 1rem;
+  width: 80%;
+}
+
+.fs-Poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.datosPlanilla ul li {
+  font-size: 14px;
+}
+
+.contenido  li,
+.contenido blockquote{
+  color: #012970 !important;
+}
+
+.line-divisor hr{
+  color: #8bb2f7;
+  font-size: 2px;
+}
+
+.tablaDetallePolizas .table-responsive {
+  padding: 7px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.list-colas li {
+  margin-bottom: 1.2rem !important;
+}
+
+.apoyo-tipificaciones ul > li {
+  list-style: none;
 }
