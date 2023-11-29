@@ -2,7 +2,7 @@
 
     <div class="d-flex align-items-center justify-content-between">
         <a href="index.html" class="logo d-flex align-items-center">
-        <img src="/views/assets/img/logo2.png" alt="" class="w-75 p-3">
+        <img src="/views/assets/img/logo2.png" alt="" class="w-65 p-3">
         <!-- <span class="d-none d-lg-block">HelpDesk</span> -->
         </a>
         <i class="bi bi-list toggle-sidebar-btn"></i>

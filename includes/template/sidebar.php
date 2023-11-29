@@ -67,6 +67,14 @@
             </ul>
         </li>
 
+        <li class="nav-item">
+            <a class="nav-link collapsed" href="/views/pautacalidad.php">
+                <i class="bi bi-card-list"></i>
+                <span>Pauta Calidad</span>
+            </a>
+        </li>
+
+
     </ul>
 
 </aside><!-- End Sidebar-->

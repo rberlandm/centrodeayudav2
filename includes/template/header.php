@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Dashboard - NiceAdmin Bootstrap Template</title>
+    <title>Custumer Services - Centro de Ayuda</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -32,8 +32,8 @@
 
 
     <link rel="preload" href="" as="script" />
-    <link rel="preload" href="https://code.jquery.com/jquery-3.6.4.min.js" as="script" />
-    <link rel="preload" href="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js" as="script" />
+    <link rel="preload" href="https://code.jquery.com/jquery-3.7.0.js" as="script" />
+    <link rel="preload" href="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js" as="script" />
     <link rel="preload" href="/views/assets/vendor/apexcharts/apexcharts.min.js" as="script" />
     <link rel="preload" href="/views/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" as="script" />
     <link rel="preload" href="/views/assets/vendor/chart.js/chart.umd.js" as="script" />
@@ -59,9 +59,9 @@
     <link href="/views/assets/css/style.css" rel="stylesheet">
 
 
-    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
-    <script type="text/javascript" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <script type="text/javascript" src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 

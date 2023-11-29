@@ -9,5 +9,8 @@
         "observacion",
         "Paginación",
         "pagination"
-    ]
+    ],
+    "phpServer.documentRoot": "C:\\apache\\htdocs\\centrodeayudav2",
+    "phpServer.defaultFileName": "index.php",
+    "phpServer.port": 3080,
 }
