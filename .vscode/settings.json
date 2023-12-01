@@ -1,14 +1,26 @@
 {
     "cSpell.words": [
+        "agendamiento",
         "AGENDAMIENTO",
         "Assistime",
         "condicion",
+        "copago",
         "danger",
         "datatables",
         "Dinomi",
+        "dscto",
+        "Fonasa",
+        "fono",
+        "gestion",
+        "Isapre",
         "observacion",
         "Paginación",
-        "pagination"
+        "pagination",
+        "prevision",
+        "Rescare",
+        "Teleconsulta",
+        "telemedicina",
+        "Telemedicina"
     ],
     "phpServer.documentRoot": "C:\\apache\\htdocs\\centrodeayudav2",
     "phpServer.defaultFileName": "index.php",

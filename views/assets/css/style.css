@@ -1366,27 +1366,6 @@ td {
 }
 
 
-@media (max-width: 1440px) {
-
-  #detallePoliza>tbody>tr>td,
-  #detallePoliza>tbody>tr>th,
-  #detallePoliza>tfoot>tr>td,
-  #detallePoliza>tfoot>tr>th,
-  #detallePoliza>thead>tr>td,
-  #detallePoliza>thead>tr>th {
-    font-size: 0.7rem;
-  }
-}
-
-
-#detallePoliza>tbody>tr>td,
-#detallePoliza>tbody>tr>th,
-#detallePoliza>tfoot>tr>td,
-#detallePoliza>tfoot>tr>th,
-#detallePoliza>thead>tr>td,
-#detallePoliza>thead>tr>th {
-  color: #012970 !important;
-}
 
 #detallePoliza>thead>tr>th {
   font-weight: 600;
@@ -1411,7 +1390,7 @@ td {
 
 .card-pauta {
   margin-bottom: 1rem;
-padding: 0 1rem;
+  padding      : 0 1rem;
 }
 
 .card-pauta .titulo {
@@ -1443,4 +1422,105 @@ padding: 0 1rem;
   color      : #899bbd;
   font-size  : 1.4rem;
   font-weight: 400;
+}
+
+#pautaCalidad>tbody>tr>td,
+#pautaCalidad>tbody>tr>th,
+#pautaCalidad>tfoot>tr>td,
+#pautaCalidad>tfoot>tr>th,
+#pautaCalidad>thead>tr>td,
+#pautaCalidad>thead>tr>th {
+  color: #012970 !important;
+}
+
+.email-destinatarios {
+  margin-bottom: 1rem;
+}
+
+.email-destinatarios ul {
+  list-style: none;
+  padding   : 0 !important;
+  margin    : 0 !important;
+
+
+}
+
+.card-nota {
+  padding         : 1.1rem;
+  box-shadow      : rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  border-radius   : .9rem;
+  background-color: white;
+}
+
+.accordion {
+  font-family: "Poppins", sans-serif;
+}
+
+.accordion button {
+  font-family: "Poppins", sans-serif;
+  color      : #505b6d !important;
+  font-size  : 1rem;
+  font-weight: 600;
+}
+
+#baja>tbody>tr>td,
+#baja>tbody>tr>th,
+#baja>tfoot>tr>td,
+#baja>tfoot>tr>th {
+  color      : #012970 !important;
+  font-size  : .9rem;
+  white-space: nowrap;
+}
+
+#baja>thead>tr>td,
+#baja>thead>tr>th {
+  color      : #012970 !important;
+  font-size  : .9rem;
+  white-space: nowrap;
+}
+
+
+#tblpolizas>thead>tr>td,
+#tblpolizas>thead>tr>th {
+  color      : #012970 !important;
+  font-size  : .9rem;
+  white-space: nowrap;
+}
+
+#tblpolizas>tbody>tr>td,
+#tblpolizas>tbody>tr>th,
+#tblpolizas>tfoot>tr>td,
+#tblpolizas>tfoot>tr>th {
+  color      : #012970 !important;
+  font-size  : .9rem;
+  white-space: nowrap;
+}
+
+#tblDetallePolizas>tbody>tr>td,
+#tblDetallePolizas>tbody>tr>th,
+#tblDetallePolizas>tfoot>tr>td,
+#tblDetallePolizas>tfoot>tr>th {
+  color    : #012970 !important;
+  font-size: .9rem;
+}
+
+/* Estilo para las celdas con white-space: pre; */
+.white-space-normal {
+  white-space: normal !important;
+}
+
+/* Estilo para las celdas con white-space: nowrap; */
+.white-space-nowrap {
+  white-space: nowrap;
+}
+
+.list-style-none {
+  list-style: none;
+}
+
+.btn-excel {
+  background-color: #012970 !important;
+  color           : white !important;
+  border-radius   : .7rem !important;
+  padding         : .5 1rem !important;
 }

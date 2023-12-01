@@ -47,6 +47,13 @@
             </a>
         </li>
 
+        <li class="nav-item">
+            <a class="nav-link collapsed" href="/views/descarga.php">
+                <i class="bi bi-card-list"></i>
+                <span>Descargar Registros</span>
+            </a>
+        </li>
+
 
         <li class="nav-item">
             <a class="nav-link collapsed">
@@ -74,7 +81,19 @@
             </a>
         </li>
 
+        <li class="nav-item">
+            <a class="nav-link collapsed" href="/views/asistenciasbajas.php">
+                <i class="bi bi-card-list"></i>
+                <span>Asistencias y Bajas</span>
+            </a>
+        </li>
 
+        <li class="nav-item">
+            <a class="nav-link collapsed" href="/views/modules/clinica.php">
+                <i class="bi bi-card-list"></i>
+                <span>Clínica Digital y Farmacia </span>
+            </a>
+        </li>
     </ul>
 
 </aside><!-- End Sidebar-->

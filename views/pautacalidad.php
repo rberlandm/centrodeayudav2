@@ -143,6 +143,61 @@ incluirTemplate('sidebar');
             </div>
 
             <div class="row">
+                <div class="table-responsive">
+                    <table id="pautaCalidad" class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th scope="col">Errores</th>
+                                <th scope="col">Definición</th>
+                                <th scope="col">Descripción</th>
+                                <th scope="col">Plan de Acción</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="">
+                                <td scope="row">ALERTA LEVE</td>
+                                <td>Errores Leves</td>
+                                <td>
+                                    <ul>
+                                        <li>Comer, beber o bostezar mientras se mantiene conversación con cliente</li>
+                                        <li>No contestar llamado en los primeros 10 segundos desde que se inicia contacto con cliente</li>
+                                        <li>No verifica datos de cliente importantes para coordinación</li>
+                                    </ul>
+                                </td>
+                                <td>Coaching con seguimiento</td>
+                            </tr>
+                            <tr class="">
+                                <td scope="row">ALERTA GRAVE</td>
+                                <td>Errores Leves reiterados en 3 veces / Errores Graves</td>
+                                <td>
+                                    <ul>
+                                        <li>Derivar si el operador puede dar respuesta a la consulta del cliente o no escalar internamente</li>
+                                        <li>No ingresar gestiones y/o información requerida como resultado del llamado a los sistemas de Contac center</li>
+                                        <li>Realizar llamadas personales desde su anexo sin autorización, en horario de trabajo, no break no colación)</li>
+                                        <li>Atender llamadas personales mientras se mantiene conversación con el cliente o Hablar con colaboradores</li>
+                                    </ul>
+                                </td>
+                                <td>Coaching con seguimiento / Carta de compromiso</td>
+                            </tr>
+                            <tr class="">
+                                <td scope="row">ALERTA CRITICA</td>
+                                <td>Errores Graves reiterados en 3 veces / Errores Críticos</td>
+                                <td>
+                                    <ul>
+                                        <li>Entrega información errada al cliente (Coberturas, Condiciónes o información general)/Entrega información errada en Soporte Clínica Digita</li>
+                                        <li>Alza la voz/grita al Cliente/ironía</li>
+                                        <li>Insulta a cliente / Trato no cordial</li>
+                                        <li>Corte de llamado, agente corta el llamado de forma explícita, por ambiente de llamada</li>
+                                        <li>Ejecutivo no contesta llamada, o tipifica como CSC cuando es CCC</li>
+                                        <li>Hablar mal del sponsor, del vendedor, del prestador de un colaborador o de Asssitime.</li>
+                                        <li>Niega atención a cliente, cuando no aparece en validador o no se encuentra vigente/ Cuando no escala casos de validación o reclamos.</li>
+                                    </ul>
+                                </td>
+                                <td>Carta de Amonestación</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
 
 
             </div>
