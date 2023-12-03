@@ -1,404 +1,410 @@
 [
     {
         "id": "1",
-        "servicio": "ASISTENCIA DOMICILIARIA LA POLAR",
-        "producto": "AS.DOM.",
-        "sponsor": "LA POLAR "
+        "servicio": "ACCIDENTES PERSONALES AP_2.0 Y HOSPITALARIO",
+        "producto": "SALUD Y HOSPITALARIA",
+        "sponsor": "BCI"
     },
     {
         "id": "2",
-        "servicio": "AP_CLINICA DOMICILIARIA LA POLAR",
-        "producto": "CLI. DOM (I,II,III,IV,V,VI)",
-        "sponsor": "LA POLAR "
+        "servicio": "AP_ASISTENCIA DENTAL",
+        "producto": "PRT.DENT (II,III,IV)",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "3",
-        "servicio": "SALUD INTEGRAL",
-        "producto": "INT.PLAN (I,II,III)",
-        "sponsor": "LA POLAR "
+        "servicio": "AP_CLINICA DOMICILIARIA LA POLAR",
+        "producto": "CLI. DOM (I,II,III,IV,V,VI)",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "4",
-        "servicio": "AP_ASISTENCIA DENTAL",
-        "producto": "PRT.DENT (II,III,IV)",
-        "sponsor": "LA POLAR "
+        "servicio": "ASIST. SALUD PROGRAMA DOMICILIARIO",
+        "producto": "AS. PROGRAMA DOMICILIARIO",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "5",
-        "servicio": "FULL EXAMENES",
-        "producto": "ASISTENCIA MEDICA Y ENFERMERIA",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA  SALUD DENTAL FAMILIAR",
+        "producto": "SEG. DENTAL",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "6",
-        "servicio": "PROTECCION 4 ESTACIONES",
-        "producto": "4 ESTACIONES",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA AL DECESO BICEVIDA",
+        "producto": "ASIS. DECESO BICEVIDA",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "7",
-        "servicio": "ASISTENCIA FULL PREVENCION ONCOLÓGICO",
-        "producto": "SEG. AVA. POS",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA AL DECESO BICEVIDA",
+        "producto": "ASIS. DECESO BICEVIDA",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "8",
-        "servicio": "MÁS PROTECCION",
-        "producto": "MAS PROT.",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA CUIDA TU SALUD",
+        "producto": "ASISTENCIA CUIDA TU SALUD",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "9",
-        "servicio": "FULL PROTECCION",
-        "producto": "FULL PROTECCION",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA DOMICILIARIA LA POLAR",
+        "producto": "AS.DOM.",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "10",
-        "servicio": "FULL PROTECCION  AVANCE",
-        "producto": "FULL PROTECCION XL",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA FULL HOGAR Y AUTO INTEGRAL",
+        "producto": "AS. HOGAR Y AUTO",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "11",
-        "servicio": "FULL PROTECCION AVANCE XL",
-        "producto": "FULL PROTECCION XL (NUEVA VERSIÓN)",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA FULL PREVENCION ONCOLÓGICO",
+        "producto": "SEG. AVA. POS",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "12",
-        "servicio": "FULL SALUD Y HOSPITALIZACION",
-        "producto": "FUL SALUD + HOSP",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA MASCOTA",
+        "producto": "AS. MASCOTA",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "13",
-        "servicio": "SEGURO ONCOLÓGICO",
-        "producto": "SEG.ONC. (I,II,III)",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA MEDI-ASSIST",
+        "producto": "ASISTENCIA MEDI-ASSIST",
+        "sponsor": "MEDISMART"
     },
     {
         "id": "14",
-        "servicio": "HOSPITALIZACION PROTEGIDA",
-        "producto": "HOSP.PROTEGIDA",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA MÉDICA FAMILIAR FASHIONS PARK",
+        "producto": "MUERTE ACCIDENTAL + ASISTENCIA MÉDICA FAMILIAR FASHIONS PARK",
+        "sponsor": "FASHIONS PARK"
     },
     {
         "id": "15",
-        "servicio": "PROGRAMA PREVENTIVO SALUD",
-        "producto": "PROGRAMA PREVENTIVO SALUD",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA SALUD DENTAL  (TITULAR)",
+        "producto": "SEG. DENTAL",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "16",
-        "servicio": "PROGRAMA ATENCION DOMICILIARIA",
-        "producto": "ASISTENCIA MAS SALUD",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA SALUD INTEGRAL FAMILIAR",
+        "producto": "AS.SALUD INTEGRAL FAM",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "17",
-        "servicio": "PROGRAMA AGENDAMIENTO CONSULTA",
-        "producto": "PROGRAMA AGENDAMIENTO CONSULTA",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA SALUD INTEGRAL INFANTIL",
+        "producto": "ASISTENCIA SALUD INTEGRAL INFANTIL",
+        "sponsor": "DIJON"
     },
     {
         "id": "18",
-        "servicio": "DESGRAVAMEN 3.0",
-        "producto": "DESGRAVAMEN 3.0",
-        "sponsor": "LA POLAR "
+        "servicio": "ASISTENCIA SALUD INTEGRAL TOTAL ",
+        "producto": "ASISTENCIA SALUD INTEGRAL TOTAL ",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "19",
-        "servicio": "SEGURO CATASTROFICO HOGAR",
-        "producto": "SEGURO CATASTROFICO HOGAR",
-        "sponsor": "LA POLAR "
+        "servicio": "BOX DE URGENCIA PREUNIC",
+        "producto": "BOX DE URGENCIA PREUNIC",
+        "sponsor": "PREUNIC"
     },
     {
         "id": "20",
-        "servicio": "ASISTENCIA AL DECESO BICEVIDA",
-        "producto": "ASIS. DECESO BICEVIDA",
-        "sponsor": "LA POLAR "
+        "servicio": "BOX DE URGENCIA SALCOBRAND",
+        "producto": "BOX DE URGENCIA SALCOBRAND",
+        "sponsor": "SALCOBRAND"
     },
     {
         "id": "21",
-        "servicio": "TELEMEDICINA POS ",
-        "producto": "TELEMEDICINA POS",
-        "sponsor": "LA POLAR "
+        "servicio": "BOX MEDICO VIDA FAMILIAR",
+        "producto": "BOX MEDICO VIDA FAM",
+        "sponsor": "CAJA LOS ANDES"
     },
     {
         "id": "22",
-        "servicio": "TELEMEDICINA POS ONCOLÓGICO ",
-        "producto": "TELEMEDICINA POS (ONCOLOLOGICO)",
-        "sponsor": "LA POLAR "
+        "servicio": "CLINICA DIGITAL",
+        "producto": "CLINICA DIGITAL",
+        "sponsor": "CLINICA DIGITAL"
     },
     {
         "id": "23",
-        "servicio": "DOCTOR DIGITAL ",
-        "producto": "DOCTOR DIGITAL ",
-        "sponsor": "LA POLAR "
+        "servicio": "CLINICA DIGITAL CLARO",
+        "producto": "CLIN. DIG. CLARO",
+        "sponsor": "CLARO"
     },
     {
         "id": "24",
-        "servicio": "ASISTENCIA AL DECESO BICEVIDA",
-        "producto": "ASIS. DECESO BICEVIDA",
-        "sponsor": "LA POLAR "
+        "servicio": "CLINICA DOMICILIARIA ABCDIN",
+        "producto": "CLI.DOM.TMK",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "25",
-        "servicio": "PRG.ASIST. SALUD INTEGRAL",
-        "producto": "PRG.ASIST. SALUD INTEGRAL",
-        "sponsor": "LA POLAR "
+        "servicio": "CLINICA DOMICILIARIA RETENCION",
+        "producto": "CLI.DOM.TMK RET",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "26",
-        "servicio": "ASISTENCIA CUIDA TU SALUD",
-        "producto": "ASISTENCIA CUIDA TU SALUD",
-        "sponsor": "LA POLAR "
+        "servicio": "DESGRAVAMEN 3.0",
+        "producto": "DESGRAVAMEN 3.0",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "27",
-        "servicio": "PROGRAMA SALUD ESCOLAR",
-        "producto": "PROGRAMA SALUD ESCOLAR",
-        "sponsor": "LA POLAR "
+        "servicio": "DOCTOR DIGITAL ",
+        "producto": "DOCTOR DIGITAL ",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "28",
-        "servicio": "ASISTENCIA SALUD INTEGRAL TOTAL ",
-        "producto": "ASISTENCIA SALUD INTEGRAL TOTAL ",
-        "sponsor": "LA POLAR "
+        "servicio": "ESPECIALISTAS+TELEMEDICINA CORONA",
+        "producto": "MEDICINA ESPECIALISTAS LIBRE ELECCION+TELEMEDICINA",
+        "sponsor": "CORONA"
     },
     {
         "id": "29",
-        "servicio": "ASISTENCIA SALUD INTEGRAL FAMILIAR",
-        "producto": "AS.SALUD INTEGRAL FAM",
-        "sponsor": "ABCDIN "
+        "servicio": "FULL EXAMENES",
+        "producto": "ASISTENCIA MEDICA Y ENFERMERIA",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "30",
-        "servicio": "ASIST. SALUD PROGRAMA DOMICILIARIO",
-        "producto": "AS. PROGRAMA DOMICILIARIO",
-        "sponsor": "ABCDIN "
+        "servicio": "FULL PROTECCION",
+        "producto": "FULL PROTECCION",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "31",
-        "servicio": "ASISTENCIA MASCOTA",
-        "producto": "AS. MASCOTA",
-        "sponsor": "ABCDIN "
+        "servicio": "FULL PROTECCION  AVANCE",
+        "producto": "FULL PROTECCION XL",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "32",
-        "servicio": "ASISTENCIA FULL HOGAR Y AUTO INTEGRAL",
-        "producto": "AS. HOGAR Y AUTO",
-        "sponsor": "ABCDIN "
+        "servicio": "FULL PROTECCION AVANCE XL",
+        "producto": "FULL PROTECCION XL (NUEVA VERSIÓN)",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "33",
-        "servicio": "SEGURO DE VIDA",
-        "producto": "SEGURO DE VIDA",
-        "sponsor": "ABCDIN "
+        "servicio": "FULL SALUD Y HOSPITALIZACION",
+        "producto": "FUL SALUD + HOSP",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "34",
-        "servicio": "SEGURO CATASTROFICO FAMILIAR",
-        "producto": "SEG. CATASTROFICO O ENF.GRAVES",
-        "sponsor": "ABCDIN "
+        "servicio": "HOSPITALIZACION PROTEGIDA",
+        "producto": "HOSP.PROTEGIDA",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "35",
-        "servicio": "SEGURO ESCOLARIDAD ",
-        "producto": "SEG. ESCOLARIDAD",
-        "sponsor": "ABCDIN "
+        "servicio": "HOSPITALIZACION TMK ",
+        "producto": "HOSPITALIZACION TMK PLAN 1",
+        "sponsor": "CAJA LOS ANDES"
     },
     {
         "id": "36",
-        "servicio": "ASISTENCIA SALUD DENTAL  (TITULAR)",
-        "producto": "SEG. DENTAL",
-        "sponsor": "ABCDIN "
+        "servicio": "HOSPITALIZACION TMK  FAMILIAR PGU",
+        "producto": "HOSPITALIZACION TMK  FAMILIAR PGU",
+        "sponsor": "CAJA LOS ANDES"
     },
     {
         "id": "37",
-        "servicio": "ASISTENCIA  SALUD DENTAL FAMILIAR",
-        "producto": "SEG. DENTAL",
-        "sponsor": "ABCDIN "
+        "servicio": "HOSPITALIZACION TMK FAMILIAR",
+        "producto": "HOSPITALIZACION TMK FAMILIAR PLAN 2",
+        "sponsor": "CAJA LOS ANDES"
     },
     {
         "id": "38",
-        "servicio": "CLINICA DOMICILIARIA ABCDIN",
-        "producto": "CLI.DOM.TMK",
-        "sponsor": "ABCDIN "
+        "servicio": "MÁS PROTECCION",
+        "producto": "MAS PROT.",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "39",
-        "servicio": "CLINICA DOMICILIARIA RETENCION",
-        "producto": "CLI.DOM.TMK RET",
-        "sponsor": "ABCDIN "
+        "servicio": "MÁS SALUD ",
+        "producto": "MÁS SALUD ",
+        "sponsor": "SALCOBRAND"
     },
     {
         "id": "40",
-        "servicio": "SEGURO ONCOLÓGICO PLUS",
-        "producto": "AP_ONCOLOGICO PLUS",
-        "sponsor": "ABCDIN "
+        "servicio": "METLIFE TELEMEDICINA",
+        "producto": "METLIFE TELEMEDICINA",
+        "sponsor": "METLIFE "
     },
     {
         "id": "41",
-        "servicio": "SALUD AMBULATORIA DE LIBRE ELECCIÓN",
-        "producto": "SALUD AMBULATORIA DE LIBRE ELECCIÓN",
-        "sponsor": "ABCDIN "
+        "servicio": "MULTICENTRO TELEMEDICINA",
+        "producto": "MULTICENTRO TELEMEDICINA",
+        "sponsor": "MULTICENTRO "
     },
     {
         "id": "42",
-        "servicio": "SALUD INTEGRAL PLAN FAMILIAR  (FFAA)",
-        "producto": "ASOC.GREM.NAC.PENS.FF.AA- CARAB. Y MONTEPIOS",
-        "sponsor": "FFAA "
+        "servicio": "NUEVOS PRODUCTOS (SCOTIA,CAJA LOS ANDES)",
+        "producto": "NUEVOS PRODUCTOS (SCOTIA,CAJA LOS ANDES)",
+        "sponsor": "MEDISMART- CARDIF"
     },
     {
         "id": "43",
-        "servicio": "SALUD TOTAL COPELEC",
-        "producto": "BCI-COPELEC",
-        "sponsor": "COPELEC "
+        "servicio": "ONCOLÓGICO RIPLEY TMK",
+        "producto": "ONCOLOGICO TMK RIPLEY",
+        "sponsor": "RIPLEY"
     },
     {
         "id": "44",
-        "servicio": "ACCIDENTES PERSONALES AP_2.0 Y HOSPITALARIO",
-        "producto": "SALUD Y HOSPITALARIA",
-        "sponsor": "BCI "
+        "servicio": "ONCOLOGICO TMK",
+        "producto": "ONCOLOGICO TMK ",
+        "sponsor": "CAJA LOS ANDES"
     },
     {
         "id": "45",
-        "servicio": "SALA DE URGENCIA ",
-        "producto": "SALA DE URGENCIA ",
-        "sponsor": "BCI "
+        "servicio": "PREVENTIVO ONCOLÓGICO",
+        "producto": "AP_ONCOLOGICO",
+        "sponsor": "CENCOSUD"
     },
     {
         "id": "46",
-        "servicio": "PREVENTIVO ONCOLÓGICO",
-        "producto": "AP_ONCOLOGICO",
-        "sponsor": "CENCOSUD "
+        "servicio": "PRG.ASIST. SALUD INTEGRAL",
+        "producto": "PRG.ASIST. SALUD INTEGRAL",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "47",
-        "servicio": "BOX DE URGENCIA SALCOBRAND",
-        "producto": "BOX DE URGENCIA SALCOBRAND",
-        "sponsor": "SALCOBRAND "
+        "servicio": "PROGRAMA AGENDAMIENTO CONSULTA",
+        "producto": "PROGRAMA AGENDAMIENTO CONSULTA",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "48",
-        "servicio": "MÁS SALUD ",
-        "producto": "MÁS SALUD ",
-        "sponsor": "SALCOBRAND "
+        "servicio": "PROGRAMA ATENCION DOMICILIARIA",
+        "producto": "ASISTENCIA MAS SALUD",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "49",
-        "servicio": "BOX DE URGENCIA PREUNIC",
-        "producto": "BOX DE URGENCIA PREUNIC",
-        "sponsor": "PREUNIC "
+        "servicio": "PROGRAMA PREVENTIVO SALUD",
+        "producto": "PROGRAMA PREVENTIVO SALUD",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "50",
-        "servicio": "ASISTENCIA SALUD INTEGRAL INFANTIL",
-        "producto": "ASISTENCIA SALUD INTEGRAL INFANTIL",
-        "sponsor": "DIJON "
+        "servicio": "PROGRAMA SALUD ESCOLAR",
+        "producto": "PROGRAMA SALUD ESCOLAR",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "51",
-        "servicio": "HOSPITALIZACION TMK ",
-        "producto": "HOSPITALIZACION TMK PLAN 1",
-        "sponsor": "CAJA LOS ANDES "
+        "servicio": "PROTECCION 4 ESTACIONES",
+        "producto": "4 ESTACIONES",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "52",
-        "servicio": "HOSPITALIZACION TMK FAMILIAR",
-        "producto": "HOSPITALIZACION TMK FAMILIAR PLAN 2",
-        "sponsor": "CAJA LOS ANDES "
+        "servicio": "PROTECCION INTEGRAL RIPLEY",
+        "producto": "PROT.INT.",
+        "sponsor": "RIPLEY"
     },
     {
         "id": "53",
-        "servicio": "HOSPITALIZACION TMK  FAMILIAR PGU",
-        "producto": "HOSPITALIZACION TMK  FAMILIAR PGU",
-        "sponsor": "CAJA LOS ANDES "
+        "servicio": "SALA DE URGENCIA ",
+        "producto": "SALA DE URGENCIA ",
+        "sponsor": "BCI"
     },
     {
         "id": "54",
-        "servicio": "ONCOLOGICO TMK",
-        "producto": "ONCOLOGICO TMK ",
-        "sponsor": "CAJA LOS ANDES "
+        "servicio": "SALUD AMBULATORIA DE LIBRE ELECCIÓN",
+        "producto": "SALUD AMBULATORIA DE LIBRE ELECCIÓN",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "55",
-        "servicio": "BOX MEDICO VIDA FAMILIAR",
-        "producto": "BOX MEDICO VIDA FAM",
-        "sponsor": "CAJA LOS ANDES "
+        "servicio": "SALUD INTEGRAL",
+        "producto": "INT.PLAN (I,II,III)",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "56",
-        "servicio": "VIDA ASOCIADO A SUPER AVANCES HOME BANKING",
-        "producto": "VIDA SAV HB RIPLEY",
-        "sponsor": "RIPLEY "
+        "servicio": "SALUD INTEGRAL PLAN FAMILIAR  (FFAA)",
+        "producto": "ASOC.GREM.NAC.PENS.FF.AA- CARAB. Y MONTEPIOS",
+        "sponsor": "FFAA"
     },
     {
         "id": "57",
-        "servicio": "PROTECCION INTEGRAL RIPLEY",
-        "producto": "PROT.INT.",
-        "sponsor": "RIPLEY "
+        "servicio": "SALUD TOTAL COPELEC",
+        "producto": "BCI-COPELEC",
+        "sponsor": "COPELEC"
     },
     {
         "id": "58",
-        "servicio": "VIDA ASOCIADO A AVANCES HOME BANKING",
-        "producto": "SEGURO VIDA AVANCES",
-        "sponsor": "RIPLEY "
+        "servicio": "SEGURO CATASTROFICO FAMILIAR",
+        "producto": "SEG. CATASTROFICO O ENF.GRAVES",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "59",
-        "servicio": "ONCOLÓGICO RIPLEY TMK",
-        "producto": "ONCOLOGICO TMK RIPLEY",
-        "sponsor": "RIPLEY "
+        "servicio": "SEGURO CATASTROFICO HOGAR",
+        "producto": "SEGURO CATASTROFICO HOGAR",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "60",
-        "servicio": "ASISTENCIA MEDI-ASSIST",
-        "producto": "ASISTENCIA MEDI-ASSIST",
-        "sponsor": "MEDISMART "
+        "servicio": "SEGURO DE VIDA",
+        "producto": "SEGURO DE VIDA",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "61",
-        "servicio": "ASISTENCIA MÉDICA FAMILIAR FASHIONS PARK",
-        "producto": "MUERTE ACCIDENTAL + ASISTENCIA MÉDICA FAMILIAR FASHIONS PARK",
-        "sponsor": "FASHIONS PARK "
+        "servicio": "SEGURO ESCOLARIDAD ",
+        "producto": "SEG. ESCOLARIDAD",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "62",
-        "servicio": "ESPECIALISTAS+TELEMEDICINA CORONA",
-        "producto": "MEDICINA ESPECIALISTAS LIBRE ELECCION+TELEMEDICINA",
-        "sponsor": "CORONA "
+        "servicio": "SEGURO ONCOLÓGICO",
+        "producto": "SEG.ONC. (I,II,III)",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "63",
-        "servicio": "TELEMEDICINA TURBUS",
-        "producto": "BENEFICIO TELEMEDICINA TURBUS",
-        "sponsor": "TURBUS "
+        "servicio": "SEGURO ONCOLÓGICO PLUS",
+        "producto": "AP_ONCOLOGICO PLUS",
+        "sponsor": "ABCDIN"
     },
     {
         "id": "64",
-        "servicio": "CLINICA DIGITAL CLARO",
-        "producto": "CLIN. DIG. CLARO",
-        "sponsor": "CLARO "
+        "servicio": "TELEMEDICINA POS ",
+        "producto": "TELEMEDICINA POS",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "65",
-        "servicio": "CLINICA DIGITAL",
-        "producto": "CLINICA DIGITAL",
-        "sponsor": "CLINICA DIGITAL "
+        "servicio": "TELEMEDICINA POS ONCOLÓGICO ",
+        "producto": "TELEMEDICINA POS (ONCOLOLOGICO)",
+        "sponsor": "LA POLAR"
     },
     {
         "id": "66",
-        "servicio": "METLIFE TELEMEDICINA",
-        "producto": "METLIFE TELEMEDICINA",
-        "sponsor": "METLIFE  "
+        "servicio": "TELEMEDICINA TURBUS",
+        "producto": "BENEFICIO TELEMEDICINA TURBUS",
+        "sponsor": "TURBUS"
     },
     {
         "id": "67",
-        "servicio": "MULTICENTRO TELEMEDICINA",
-        "producto": "MULTICENTRO TELEMEDICINA",
-        "sponsor": "MULTICENTRO  "
+        "servicio": "VIDA ASOCIADO A AVANCES HOME BANKING",
+        "producto": "SEGURO VIDA AVANCES",
+        "sponsor": "RIPLEY"
+    },
+    {
+        "id": "68",
+        "servicio": "VIDA ASOCIADO A SUPER AVANCES HOME BANKING",
+        "producto": "VIDA SAV HB RIPLEY",
+        "sponsor": "RIPLEY"
     }
 ]

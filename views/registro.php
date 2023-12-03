@@ -41,7 +41,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                 <div class="row">
                     <div class="col-lg-3 mb-2">
                         <label for="ejecutivo" class="form-label">Agente</label>
-                        <input type="text" class="form-control" id="ejecutivo" name="ejecutivo" value="Ricardo Berland">
+                        <input type="text" class="form-control" id="ejecutivo" name="ejecutivo" value="RICARDO BERLAND">
                     </div>
 
                     <div class="col-lg-2 mb-2">
@@ -113,7 +113,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class="col-lg-2 mb-2">
                         <label for="prevision" class="form-label">Fonasa</label>
                         <select id="prevision" name="prevision" class="form-select">
-                            <option selected disabled>Seleccione...</option>
+                            <option selected disabled></option>
                             <?php
                             foreach ($datos as $option) {
                                 echo "<option value='{$option['prevision']}' data-prevision='{$option['prevision']}'>{$option['prevision']}</option>";
@@ -130,7 +130,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class="col-lg-2 mb-2">
                         <label for="comuna" class="form-label">Comuna</label>
                         <select id="comuna" name="comuna" class="form-select" onchange="scriptComuna()">
-                            <option disabled selected>Selecciona...</option>
+                            <option disabled selected></option>
                             <?php
                             foreach ($datosComuna as $comuna) {
                                 echo "<option value='{$comuna['comuna']}' 
@@ -232,7 +232,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                                 <option disabled selected>Selecciona...</option>
                                 <?php
                                 foreach ($datosCalidad as $option) {
-                                    echo "<option value='{$option['id']}'
+                                    echo "<option value='{$option['status']}'
                                     data-prevision='{$option['status']}'>{$option['status']}</option>";
                                 }
                                 ?>
@@ -245,7 +245,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                                 <option disabled selected>Selecciona...</option>
                                 <?php
                                 foreach ($datosAlertas as $option) {
-                                    echo "<option value='{$option['id']}'
+                                    echo "<option value='{$option['alertas']}'
                                     data-prevision='{$option['alertas']}'>{$option['alertas']}</option>";
                                 }
                                 ?>
@@ -258,7 +258,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                                 <option disabled selected>Selecciona...</option>
                                     <?php
                                     foreach ($datosCobertura as $option) {
-                                        echo "<option value='{$option['id']}'
+                                        echo "<option value='{$option['cobertura']}'
                                         data-prevision='{$option['cobertura']}'>{$option['cobertura']}</option>";
                                     }
                                     ?>

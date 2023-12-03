@@ -1237,22 +1237,6 @@ h6 {
   color           : white;
 }
 
-@media (max-width: 1440px) {
-
-  .datatable-table>tbody>tr>td,
-  .datatable-table>tbody>tr>th,
-  .datatable-table>tfoot>tr>td,
-  .datatable-table>tfoot>tr>th,
-  .datatable-table>thead>tr>td,
-  .datatable-table>thead>tr>th {
-    font-size: 0.7rem;
-  }
-
-  .datatable-top {
-    font-size: .7rem !important;
-  }
-}
-
 .datatable-input,
 .datatable-selector {
   border-radius: .4rem !important;
@@ -1523,4 +1507,29 @@ td {
   color           : white !important;
   border-radius   : .7rem !important;
   padding         : .5 1rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.item-middle {
+  vertical-align: middle
+}
+
+#cabeceraTabla th {
+  background-color: #012970; /* Color de fondo del encabezado */
+  color: #ffffff; /* Color del texto del encabezado */
+}
+
+#cabeceraTabla th {
+  background-color: #012970; /* Color de fondo del encabezado */
+  color: #ffffff; /* Color del texto del encabezado */
+}
+
+#cuerpoTabla td {
+white-space:nowrap;
+}
+
+
+.bg-encabezado th {
+  background-color: #750E21; /* Color de fondo del encabezado */
+  color: #ffffff; /* Color del texto del encabezado */
 }

@@ -1,15 +1,31 @@
+function formatearFecha(fecha) {
+    var dd = fecha.getDate();
+    var mm = fecha.getMonth() + 1; // Los meses en JavaScript van de 0 a 11.
+    var yyyy = fecha.getFullYear();
+
+    // Agrega ceros a la izquierda si es necesario
+    dd = dd < 10 ? '0' + dd : dd;
+    mm = mm < 10 ? '0' + mm : mm;
+
+    return dd + '-' + mm + '-' + yyyy;
+}
+
+
 function nuevoRegistro() {
     var div = document.getElementById("fromNuevoRegistroDinomi");
 
     var inputFecha = document.getElementById("fecha_gestion");
     var inputHora = document.getElementById("hora_gestion");
 
+    // Obtén la fecha actual
+    var fechaHora1 = new Date();
+
+    // Formatea la fecha
+    var fechaFormateada = formatearFecha(fechaHora1);
+    inputFecha.value = fechaFormateada;
+
     // Obtén la fecha y hora actual
     var fechaHora = new Date();
-
-    // Formatea la fecha y asigna al campo de fecha
-    var fechaFormateada = fechaHora.toLocaleDateString();
-    inputFecha.value = fechaFormateada;
 
     // Formatea la hora y asigna al campo de hora
     var horaFormateada = fechaHora.toLocaleTimeString();
@@ -214,14 +230,23 @@ function guardarInformacion() {
     var fecha_gestion = document.getElementById('fecha_gestion').value;
     var hora_gestion = document.getElementById('hora_gestion').value;
     var rut_titular = document.getElementById('rut_titular').value;
-    var nombre_titular = document.getElementById('nombre_titular').value;
+
+    var nombre_titularMayus = document.getElementById('nombre_titular').value; // +
+    var nombre_titular = nombre_titularMayus.toUpperCase();
+
     var orden = document.getElementById('orden').value;
     var rut_paciente = document.getElementById('rut_paciente').value;
-    var nombre_paciente = document.getElementById('nombre_paciente').value;
+
+    var nombre_pacienteMayus = document.getElementById('nombre_paciente').value; // +
+    var nombre_paciente = nombre_pacienteMayus.toUpperCase();
+
     var edad = document.getElementById('edad').value;
     var fecha_nacimiento = document.getElementById('fecha_nacimiento').value;
     var prevision = document.getElementById('prevision').value;
-    var direccion = document.getElementById('direccion').value;
+    
+    var direccionMayusc = document.getElementById('direccion').value; // +
+    var direccion = direccionMayusc.toUpperCase();
+
     var comuna = document.getElementById('comuna').value;
     var ciudad = document.getElementById('ciudad').value;
     var region = document.getElementById('region').value;
@@ -229,7 +254,7 @@ function guardarInformacion() {
     var fono = document.getElementById('fono').value;
     var fono_dos = document.getElementById('fono_dos').value;
     var fono_tres = document.getElementById('fono_tres').value;
-    var email = document.getElementById('email').value;
+    var email = document.getElementById('email').value; // +
 
     var producto = document.getElementById('producto').value;
     var servicio = document.getElementById('servicio').value;
@@ -241,8 +266,12 @@ function guardarInformacion() {
     var validacion_cobertura = document.getElementById('validacion_cobertura').value;
 
     var tipo_atencion = document.getElementById('tipo_atencion').value;
-    var descripcion_atencion = document.getElementById('descripcion_atencion').value;
-    var observacion = document.getElementById('observacion').value;
+    
+    var descripcion_atencionMayus = document.getElementById('descripcion_atencion').value; // +// +
+    var descripcion_atencion = descripcion_atencionMayus.toUpperCase();
+
+    var observacionMayus = document.getElementById('observacion').value; // +
+    var observacion = observacionMayus.toUpperCase();
 
     // Crear un objeto FormData para enviar los datos al servidor
     var formData = new FormData();
@@ -286,14 +315,14 @@ function guardarInformacion() {
     // Enviar datos a PHP usando XMLHttpRequest
     var xhr = new XMLHttpRequest();
     xhr.open('POST', 'guardarDatos.php', true);
-/* 
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-            // Manejar la respuesta del servidor (si es necesario)
-            console.log(xhr.responseText);
-        }
-    };
- */
+    /* 
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                // Manejar la respuesta del servidor (si es necesario)
+                console.log(xhr.responseText);
+            }
+        };
+     */
 
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4) {

@@ -26,7 +26,7 @@ $datos = obtenerTabla();
         <div class="table-responsive p-2">
             <table id="example" class="table hover">
                 <thead>
-                    <tr>
+                    <tr id="cabeceraTabla">
                         <th>orden</th>
                         <th>ejecutivo</th>
                         <th>fecha_gestion</th>
@@ -42,7 +42,7 @@ $datos = obtenerTabla();
                         <th>prevision</th>
                         <th>direccion</th>
                         <th>comuna</th>
-                        <th>cuidad</th>
+                        <th>Ciudad</th>
                         <th>region</th>
                         <th>fono</th>
                         <th>fono_dos</th>
@@ -63,7 +63,7 @@ $datos = obtenerTabla();
 
                     </tr>
                 </thead>
-                <tbody>
+                <tbody id="cuerpoTabla">
                     <?php foreach ($datos as $fila) {  ?>
                         <tr>
                             <td><?php echo $fila['orden']; ?></td>
@@ -81,7 +81,7 @@ $datos = obtenerTabla();
                             <td><?php echo $fila['prevision']; ?></td>
                             <td><?php echo $fila['direccion']; ?></td>
                             <td><?php echo $fila['comuna']; ?></td>
-                            <td><?php echo $fila['cuidad']; ?></td>
+                            <td><?php echo $fila['ciudad']; ?></td>
                             <td><?php echo $fila['region']; ?></td>
                             <td><?php echo $fila['fono']; ?></td>
                             <td><?php echo $fila['fono_dos']; ?></td>
@@ -119,12 +119,115 @@ $datos = obtenerTabla();
                 }],
                 language: {
                     url: '//cdn.datatables.net/plug-ins/1.13.7/i18n/es-ES.json'
-                }
+                },
+                columnDefs: [{
+                        target: 1,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 3,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 4,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 8,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 9,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 10,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 11,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 12,
+                        visible: false,
+                        searchable: false
+                    },                    
+                    {
+                        target: 13,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 14,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 15,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 16,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 18,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 19,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 20,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 23,
+                        visible: false,
+                        searchable: false
+                    },
+                    {
+                        target: 29,
+                        visible: false,
+                        searchable: false
+                    }, 
+                    {
+                        target: 30,
+                        visible: false,
+                        searchable: false
+                    }, 
+                    {
+                        target: 31,
+                        visible: false,
+                        searchable: false
+                    }, 
+                    {
+                        target: 32,
+                        visible: false,
+                        searchable: false
+                    }
+
+                ]
+
             });
         });
     </script>
 </main>
 
-<?php
+<?php incluirTemplate('footer');
 
 ?>
