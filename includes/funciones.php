@@ -30,7 +30,8 @@ function obtenerTabla()
         die("Conexión fallida: " . $conexion->connect_error);
     }
 
-    $sql = "SELECT * FROM registros";
+    /* $sql = "SELECT * FROM registros"; */
+    $sql="SELECT * FROM registros WHERE STR_TO_DATE(fecha_gestion, '%d-%m-%Y') = CURDATE();";
     $resultado = $conexion->query($sql);
 
     if ($resultado) {

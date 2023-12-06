@@ -23,7 +23,7 @@ $datos = json_decode($json_data, true);
         <h1>Polizas</h1>
         <nav>
             <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
                 <li class="breadcrumb-item active">Listado Polizas</li>
             </ol>
         </nav>
@@ -31,7 +31,7 @@ $datos = json_decode($json_data, true);
     <div class="card p-3">
         <h5 class="card-title">Listado de Pólizas <span>| Today</span></h5>
         <div class="table-responsive">
-            <table id="myTable" class="table table-borderless datatable  table-responsive table-hover">
+            <table id="tbl" class="table table-borderless table-responsive table-hover">
                 <thead>
                     <tr>
                         <th>Código</th>
@@ -81,4 +81,25 @@ $datos = json_decode($json_data, true);
 
 </main>
 
-    <?php incluirTemplate('footer'); ?>
+<script>
+$(document).ready(function() {
+    var table = $('#tbl').DataTable({
+        ordering: false,
+        language: {
+            url: '//cdn.datatables.net/plug-ins/1.13.7/i18n/es-ES.json',
+        },
+        columns: [
+            { searchable: true },  // Columna 0
+            { searchable: false },  // Columna 1
+            { searchable: true }, // Columna 2
+            { searchable: false }, // Columna 3
+            { searchable: false }, // Columna 4
+            { searchable: false }, // Columna 5
+            { searchable: false }  // Columna 6
+        ]
+    });
+});
+
+</script>
+
+<?php incluirTemplate('footer'); ?>

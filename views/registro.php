@@ -196,7 +196,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class="col-lg-4 mb-3">
                         <label for="producto" class="form-label">Servicio</label>
                         <select id="producto" name="producto" class="form-select" onchange="ScriptProducto()">
-                            <option disabled selected>Selecciona...</option>
+                            <option value="" disabled selected>Selecciona...</option>
                             <?php
                             foreach ($datosProducto as $option) {
                                 echo "<option value='{$option['servicio']}' 
@@ -229,7 +229,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class="col-lg-3 mb-3">
                         <label for="status_calidad" class="form-label">Status Calidad</label>
                         <select id="status_calidad" name="status_calidad" class="form-select"">
-                                <option disabled selected>Selecciona...</option>
+                                <option value="" disabled selected>Selecciona...</option>
                                 <?php
                                 foreach ($datosCalidad as $option) {
                                     echo "<option value='{$option['status']}'
@@ -242,7 +242,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class=" col-lg-3 mb-3">
                             <label for="tipo_alerta" class="form-label">Tipo de Alertas</label>
                             <select id="tipo_alerta" name="tipo_alerta" class="form-select"">
-                                <option disabled selected>Selecciona...</option>
+                                <option value="" disabled selected>Selecciona...</option>
                                 <?php
                                 foreach ($datosAlertas as $option) {
                                     echo "<option value='{$option['alertas']}'
@@ -255,7 +255,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class=" col-lg-3 mb-3">
                                 <label for="validacion_cobertura" class="form-label">Validación Cobertura</label>
                                 <select id="validacion_cobertura" name="validacion_cobertura" class="form-select"">
-                                <option disabled selected>Selecciona...</option>
+                                <option value="" disabled selected>Selecciona...</option>
                                     <?php
                                     foreach ($datosCobertura as $option) {
                                         echo "<option value='{$option['cobertura']}'
@@ -268,7 +268,7 @@ $datosCobertura = obtenerDatosJson('cobertura');
                     <div class=" col-lg-3 mb-3">
                                     <label for="tipo_atencion" class="form-label">Tipo de Atención</label>
                                     <select id="tipo_atencion" name="tipo_atencion" class="form-select">
-                                        <option disabled selected>Selecciona...</option>
+                                        <option value="" disabled selected>Selecciona...</option>
 
                                         <?php
                                         foreach ($datosAtencion as $option) {

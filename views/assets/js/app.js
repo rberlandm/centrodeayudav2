@@ -254,7 +254,9 @@ function guardarInformacion() {
     var fono = document.getElementById('fono').value;
     var fono_dos = document.getElementById('fono_dos').value;
     var fono_tres = document.getElementById('fono_tres').value;
-    var email = document.getElementById('email').value; // +
+
+    var emailMayus = document.getElementById('email').value; // +
+    var email = emailMayus.toUpperCase();
 
     var producto = document.getElementById('producto').value;
     var servicio = document.getElementById('servicio').value;

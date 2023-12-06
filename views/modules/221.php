@@ -15,7 +15,7 @@ incluirTemplate('sidebar');
             <h5>Asistencia Médica Familiar Fashion´s Park </h5>
             <nav>
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
                     <li class="breadcrumb-item active">Pólizas</li>
                 </ol>
             </nav>
@@ -24,13 +24,30 @@ incluirTemplate('sidebar');
 
     <div class="card-informativa row mb-2 p-2">
 
-        <div class="card-info mb-2">
-            <p>La vigencia de la Asistencia de salud es indefinida, se iniciará una vez transcurridas 72 hrs desde la fecha de firmar del presente certificado.</p>
+        <div class="row mb-4">
+            <div class="col-lg-3">
+                <div class=" text-bg-warning rounded-1 text-lg-center mb-3 p-2 h-100">
+                    <p>La vigencia de la Asistencia de salud es indefinida, se iniciará una vez transcurridas 72 hrs desde la fecha de firmar del presente certificado.</p>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class=" text-bg-success  rounded-1 text-lg-center mb-3 p-2 h-100">
+                    <span>NUMERO DE LA ASISTENCIA 2 2351 2516</span>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class=" text-bg-danger  rounded-1 text-lg-center mb-3 p-2 h-100">
+                    <span>NOTA : En caso de consulta, reclamo, renuncia y/o poner término al presente seguro lo puede realizar llamando al servicio de atención a clientes de Fashion´s Park al número 800 123 490</span>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class=" text-bg-danger  rounded-1 text-lg-center mb-3 p-2 h-100">
+                    <span>Para baja cliente debe llamar al numero 800 123 490 </span>
+                </div>
+            </div>
         </div>
 
-        <div class=" text-bg-success  rounded-1 text-lg-center mb-3 p-2">
-            <span>NUMERO DE LA ASISTENCIA 2 2351 2516</span>
-        </div>
+
 
         <div class="content-table p-3 card">
             <div class="table-responsive ">
@@ -106,7 +123,7 @@ incluirTemplate('sidebar');
                                     <li>Traumatología y Ortopedia</li>
                                     <li>Pediatría o Medicina General Infantil</li>
                                     <li>Medicina Familiar o General Adulto</li>
-                                    <li>Ginecología y Obstetricia  </li>
+                                    <li>Ginecología y Obstetricia </li>
                                     <li>Urología</li>
                                 </ul>
                             </td>
@@ -114,7 +131,7 @@ incluirTemplate('sidebar');
                             <td><b>5 Eventos anuales</b> para el grupo familiar.</td>
                             <td>
                                 <ul>
-                                    <li>Aplica el 100% de bonificación en  copago, vía huella electrónica Imed luego de su Cobertura Fonasa o Isapre;  </li>
+                                    <li>Aplica el 100% de bonificación en copago, vía huella electrónica Imed luego de su Cobertura Fonasa o Isapre; </li>
                                     <li>Casos sin previsión vigente, las atenciones serán realizadas previa coordinación con el Call Center de Assistime en su Red de Prestadores.</li>
                                     <li>La atención es programada y excluye atenciones de urgencia o emergencia médica.</li>
                                 </ul>

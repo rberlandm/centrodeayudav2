@@ -1498,7 +1498,8 @@ td {
   white-space: nowrap;
 }
 
-.list-style-none {
+.list-style-none,
+.lsn {
   list-style: none;
 }
 
@@ -1532,4 +1533,17 @@ white-space:nowrap;
 .bg-encabezado th {
   background-color: #750E21; /* Color de fondo del encabezado */
   color: #ffffff; /* Color del texto del encabezado */
+}
+
+
+
+.centrado-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.destacado1 {
+  font-weight: 700;
+  text-decoration: underline;
 }

@@ -25,7 +25,7 @@ incluirTemplate('sidebar');
     <div class="card row mb-2 p-2">
         <h5 class="card-title"> (FULL EXAMENES) ASISTENCIA MEDICA Y ENFERMERIA [23] <span>| 15-06-2018 A ACTUAL</span></h5>
 
-        <p><span class="d-flex align-items-center"><i class='bx bxs-message-alt-error text-danger  me-2'></i> S NOTA: SE DEBE ENVIAR LA ORDEN MEDICA A COORDINACIONHORASMEDICAS@ASSISTIME.CL</span></p>
+        <p><span class="d-flex align-items-center text-bg-warning p-2 rounded-1"><i class='bx bxs-message-alt-error text-white  me-2'></i> NOTA: SE DEBE ENVIAR LA ORDEN MEDICA A COORDINACIONHORASMEDICAS@ASSISTIME.CL</span></p>
         <!-- 
         <p><span class="d-flex align-items-center"><i class='bx bxs-message-alt-error text-danger  me-2'></i> COBERTURAS EN CASO DE URGENCIAS, DOLOR, INFECCION, INFLAMACION, SANGRAMIENTO Y FRACTURA </span></p>
  -->
@@ -86,6 +86,92 @@ incluirTemplate('sidebar');
                         <td>Centros medicos señalados por assisteme, cliente debe presentar orden medica</td>
                     </tr>
 
+                    <tr>
+                        <td rowspan="2">EXAMENES ULTRASONIDO ECOTOMOGRAFIAS</td>
+                        <td>ECOGRAFIA PELVICA MASCULINA</td>
+                        <td>
+                            <p>Incluye (vejiga y prostata).</p>
+                            <p>Examen ecógrafo que permite el estudio de las vías urinarias.</p>
+                            <p>La próstata y vesículas seminales, incluye informe medico especialista</p>
+                        </td>
+                        <td></td>
+                        <td rowspan="2" class="text-bg-warning text-center">2 Eventos</td>
+                        <td>Para procedimientos especiales cliente debe contar con la orden médica que indica al personal de enfermería el medicamento y dosis, contando con la autorización debida</td>
+                    </tr>
+
+
+                    <tr>
+
+                        <td>ECOTOMOGRAFIA GINECOLOGICA U OBSTETRICA</td>
+                        <td>
+                            <p>La ecotomografía ginecológica se realiza para el estudio del sistema reproductivo femenino, (útero, ovarios, trompas de Falopio).</p>
+                            <p>La ecotomografía obstétrica se realiza para el seguimiento del embarazo</p>
+                        </td>
+                        <td></td>
+                        <td>Centros médicos señalados por Assistime, cliente debe presentar orden medica/td>
+                    </tr>
+                    <tr>
+                        <td>SERVICIOS DE PROCEDIMIENTO ENFERMERIA A DOMICILIO</td>
+                        <td class="text-bg-warning font-bold">Servicios procedimientos Enfermería a domicilio </td>
+                        <td>Se realizan procedimientos de enfermería a domicilio de enfermería como son: aplicación de inyección intramuscular e intravenosa, colocación de suero, seguimiento de paciente hipertenso, curaciones, asistencia en tratamientos indicados por médicos de cabecera, instrucción de pautas de acompañamiento según diagnostico del paciente, toma de hemoglucotest, extracción de puntos de cirugías menores</td>
+                        <td></td>
+                        <td class="text-center text-bg-warning">2 Eventos</td>
+                        <td>Para procedimientos especiales cliente debe contar con la orden médica que indica al personal de enfermería el medicamento y dosis, contando con la autorización debida.</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="6">EXÁMENES DE LABORATORIO</td>
+                        <td>HEMOGRAMA</td>
+                        <td>
+                            <ul class="m-0 p-0 lsn">
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>Recuento de leucositos</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>heritrocitos</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>hematocritos</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>formula leococitaria</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>hemoglobina</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>toma de muestra en sangre</li>
+                            </ul>
+                        </td>
+                        <td></td>
+                        <td rowspan="6" class="text-bg-warning text-center">2 Eventos</td>
+                        <td rowspan="6">Cliente debe presentar ORDEN MEDICA</td>
+                    </tr>
+                    <tr>
+                        <td>PERFIL LIPIDICO</td>
+                        <td class="text-bg-warning">
+                            <ul class="m-0 p-0 lsn">
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>Trigliceridos</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>Colesterol</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>Total</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>HDL</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>LDL</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>VLDL</li>
+                                <li class="d-flex align-items-center"><i class='bx bx-chevron-right me-2'></i>Muestra de sangre</li>
+                            </ul>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>GLICEMIA</td>
+                        <td>Toma de muestra en sangre (Mide la Glucosa en Sangre)</td>
+                        <td></td>
+                    </tr>
+
+                    <tr>
+                        <td>GRUPO RH</td>
+                        <td>Permite ver la clasificacion sanguinia de cada persona</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>GONADOTROFINA CORIONICA</td>
+                        <td>Detecta existencia de Embarazo. Presencia de hormona  HCG</td>
+                        <td></td>
+                    </tr>
+
+                    <tr>
+                        <td>ORINA COMPLETA</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
