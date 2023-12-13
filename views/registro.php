@@ -28,11 +28,15 @@ $datosCobertura = obtenerDatosJson('cobertura');
         </nav>
     </div><!-- End Page Title -->
 
-    <div class="btn-nuevo mb-3">
-        <button type="button" class="btn btn-primary btn-nuevo" onclick="nuevoRegistro()">Nuevo +</button>
-    </div>
+
     <div id="formNuevoRegistroDinomi" class="card">
         <form id="fromNuevoRegistro" class=" p-3">
+
+            <div class="btn-nuevo mb-3">
+                <button type="button" class="btn btn-primary btn-nuevo" onclick="nuevoRegistro()">Nuevo +</button>
+
+                <button type="button" onclick="guardarInformacion()" class="btn btn-primary">Agregar Registro</button>
+            </div>
             <fieldset class="mb-2">
                 <legend>
                     <h5 class="titulo">Información Dinomi</h5>

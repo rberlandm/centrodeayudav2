@@ -831,8 +831,8 @@ h6 {
 }
 
 .dashboard .customers-card .card-icon {
-  color     : #ff771d;
-  background: #ffecdf;
+  color     : #fff;
+  background: rgba(216, 0, 50, .5)
 }
 
 /* Activity */
@@ -1547,3 +1547,20 @@ white-space:nowrap;
   font-weight: 700;
   text-decoration: underline;
 }
+
+.img-marca {
+  border-radius: .8rem;
+}
+
+#tblTurnos tr>th {
+  background-color: #012970;
+  color: #fff;
+}
+
+.resaltado {
+  background-color: yellow !important; /* Puedes ajustar el color de fondo según tus preferencias */
+  font-weight: bold; /* Puedes ajustar el estilo del texto según tus preferencias */
+  border: 1px solid #012970;
+  color: #012970 !important;
+}
+

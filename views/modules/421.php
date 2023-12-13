@@ -121,14 +121,14 @@ incluirTemplate('sidebar');
                         </td>
                     </tr>
 
-                    <tr>
+<!--                     <tr>
                         <td>Consultas Médicas Presenciales de Especialistas en Clínicas o Centros Médicos.</td>
                         <td> En el caso de que el médico tratante recomiende al paciente, posterior a la atención, ser atendido por un médico Especialista en: *CARDIOLOGIA O MEDICINA INTERNA *TRAUMATOLOGIA Y ORTOPEDIA *GINECOLOGIA Y OBSTETRICIA *OFTALMOLOGIA *PEDIATRIA O MEDICINA GENERAL INFANTIL
                             *UROLOGIA *BRONCOPULMONAR O MEDICINA INTERNA </td>
                         <td>100% copago</td>
                         <td>3 Eventos anuales (consultas medicas) para el grupo familiar.</td>
                         <td></td>
-                    </tr>
+                    </tr> -->
 
                     <tr>
                         <td>Consultas Médicas Presenciales de Especialistas en Clínicas o Centros Médicos.</td>

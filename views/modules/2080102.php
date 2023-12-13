@@ -10,7 +10,8 @@ incluirTemplate('sidebar');
 
 <main id="main" class="main fs-Poppins color-primario">
     <div class="pagetitle d-flex align-items-center">
-        <img src="/views/assets/img//logo_la_polar.png" alt="" class="img-marca">
+
+        <img src="https://static.theclinic.cl/media/2012/02/abcdin-e1328288265294.jpg" alt="" class="img-marca">
         <div class="info-header pt-3">
             <h1>ASISTENCIA DENTAL FAMILIAR</h1>
             <nav>

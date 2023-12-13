@@ -28,8 +28,8 @@
 <script src="/views/assets/js/app.js"></script>
 
 
-
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.2.2/echarts.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 
 </body>
 

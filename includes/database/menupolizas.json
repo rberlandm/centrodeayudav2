@@ -360,7 +360,7 @@
         "observacion": "NO SE VENDE"
     },
     {
-        "codigo": 0,
+        "codigo": "COPELECBCI",
         "sponsor": "COPELEC BCI",
         "Producto": "SALUD TOTAL COPELEC",
         "Fecha_Inicio": "27-12-2018",
@@ -376,7 +376,7 @@
         "observacion": "SE VENDE"
     },
     {
-        "codigo": "",
+        "codigo": "SALAURGENCIA ",
         "sponsor": "BCI",
         "Producto": "SALA DE URGENCIA",
         "Fecha_Inicio": "",
@@ -501,6 +501,166 @@
         "Producto": "BENEFICIO TELEMEDICINA TURBUS",
         "Fecha_Inicio": "25-08-2023",
         "Aseguradora": "TURBUS",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "turbus",
+        "sponsor": "TURBUS",
+        "Producto": "BENEFICIO TELEMEDICINA TURBUS",
+        "Fecha_Inicio": "25-08-2023",
+        "Aseguradora": "TURBUS",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "223011605",
+        "sponsor": "HOSPITALIZACION CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "218121267",
+        "sponsor": "HOSPITALIZACION CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "122087497",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "122087498",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "123017528",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "123017535",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "122087496",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "122087496",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "122087496",
+        "sponsor": "ONCOLOGICO CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "222101604",
+        "sponsor": "ONCOLOGICO SCOTIANBANK",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "222081599",
+        "sponsor": "ONCOLOGICO SCOTIANBANK",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "222081599",
+        "sponsor": "ONCOLOGICO SCOTIANBANK",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "222081599",
+        "sponsor": "ONCOLOGICO SCOTIANBANK",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "222071593",
+        "sponsor": "ONCOLOGICO SCOTIANBANK",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "222071593",
+        "sponsor": "ONCOLOGICO SCOTIANBANK",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "223011606",
+        "sponsor": "VIDA FAMILIAR CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "223011607",
+        "sponsor": "VIDA FAMILIAR CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "220031390",
+        "sponsor": "VIDA FAMILIAR CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
+        "observacion": "SE VENDE"
+    },
+    {
+        "codigo": "221101535",
+        "sponsor": "VIDA FAMILIAR CAJA LOS ANDES",
+        "Producto": "MEDISMART - CARDIF",
+        "Fecha_Inicio": "01-08-2022",
+        "Aseguradora": "ASSISTIME ",
         "observacion": "SE VENDE"
     }
 ]
